@@ -1,7 +1,7 @@
 <resources>
 <!--    PRIMER RECETA-->
     <string name="copa_de_frutas">Copa de frutas</string>
-    <string name="ingredi_copafrutas">
+    <string name="ingredi_copaFrutas">
     \n 1 taza de melón
     \n 1 taza de fresas
     \n 1 mango Ataúlfo
@@ -24,7 +24,7 @@
     
 <!--    SEGUNDA RECETA-->
     <string name="ensalada_de_frutas">Ensalada de frutas</string>
-    <string name="ingredi_ensaladafrutas">
+    <string name="ingredi_ensaladaFrutas">
         \n 3 duraznos maduros
         \n 2 peras
         \n 1 taza de piña en cuadritos
@@ -48,7 +48,7 @@
 
 <!--    TERCERA RECETA-->
     <string name="ensalada_de_mango">Ensalada de mango</string>
-    <string name="ingredi_ensaladamango">
+    <string name="ingredi_ensaladaMango">
         \n 6 mangos Ataúlfo maduros
         \n 250 ml de yogur natural
         \n 100 g de nueces fileteadas
@@ -64,7 +64,7 @@
 
 <!--    CUARTA RECETA-->
     <string name="manzanas_al_horno">Manzanas al horno</string>
-    <string name="ingre_manzanashorno">
+    <string name="ingre_manzanasHorno">
         \n 6 manzanas rojas
         \n 3 cucharadas de margarina
         \n 1 cucharada de canela
@@ -83,7 +83,12 @@
 
 <!--    QUINTA RECEtA-->
     <string name="duraznos_congelados">Duraznos congelados</string>
-    <string name="ingre_duraznoscongelados">
+    <string name="ingre_duraznosCongelados">
+        \n 500 g de duraznos maduros
+        \n ½ taza de jugo de mandarina natural
+        \n ½ taza de jugo de piña natural colado
+    </string>
+    <string name="prep_duraznosCongelados">
         \n 1.	Quitar el hueso a los duraznos y dejar la cascara.
         \n 2.	Cortarlos a la mitad y colocarlos separados unos de otros en un recipiente de plástico con tapa.
         \n 3.	Calentar el jugo de manzana y el de piña hasta que estén tibios.
