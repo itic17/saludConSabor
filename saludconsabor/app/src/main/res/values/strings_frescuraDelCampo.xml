@@ -1,3 +1,94 @@
 <resources>
+<!--    PRIMER RECETA-->
+    <string name="copa_de_frutas">Copa de frutas</string>
+    <string name="ingredi_copafrutas">
+    \n 1 taza de melón
+    \n 1 taza de fresas
+    \n 1 mango Ataúlfo
+    \n 1 manzana roja
+    \n 1 taza de piña
+    \n 2 mandarinas
+    \n 1 ½ kiwi
+    \n 3 cucharadas de pasitas
+    \n ½ taza de jugo naranja natural
+    \n 1 naranja de rodajas
+    </string>
+    <string name="prep_copafrutas">
+    \n 1.	Lavar y desinfectar perfectamente las frutas.
+    \n 2.	Obtener formas redondas de melón, manzana, mango y piña con un sacabolas y refrigerar.
+    \n 3.	Cortar los kiwis y las fresas en rodajas y las mandarinas en gajos.
+    \n 4.	Mezclar todas las frutas y agregar el jugo de naranja y las pasitas.
+    \n 5.	Servir en copas de cristal.
+    \n 6.	Decorar la copa con una rodaja de naranja.
+    </string>
+    
+<!--    SEGUNDA RECETA-->
+    <string name="ensalada_de_frutas">Ensalada de frutas</string>
+    <string name="ingredi_ensaladafrutas">
+        \n 3 duraznos maduros
+        \n 2 peras
+        \n 1 taza de piña en cuadritos
+        \n 1 plátano
+        \n 1 taza de fresas
+        \n 3 cucharadas de pasas
+        \n 3 cucharadas de coco rallado
+        \n 1 taza de jugo de piña
+        \n 1 cucharada de maicena
+        \n 1 cucharada de canela en polvo
+    </string>
+    <string name="prep_ensaladafrutas">
+        \n 1.	Lavar y desinfectar perfectamente la fruta.
+        \n 2.	Cortar en rodajas el durazno, las peras, el plátano y las fresas.
+        \n 3.	Añadir las pasas y el coco rallado.
+        \n 4.	Calentar a fuego lento el jugo de piña y agregar la maicena. Mezclar con una cuchara hasta obtener una consistencia parecida a la miel.
+        \n 5.	Servir en copas.
+        \n 6.	Bañar la fruta con la miel.
+        \n 7.	Espolvorear la canela en polvo.
+    </string>
 
+<!--    TERCERA RECETA-->
+    <string name="ensalada_de_mango">Ensalada de mango</string>
+    <string name="ingredi_ensaladamango">
+        \n 6 mangos Ataúlfo maduros
+        \n 250 ml de yogur natural
+        \n 100 g de nueces fileteadas
+        \n 6 hojitas de menta
+    </string>
+    <string name="prep_ensaladamango">
+        \n 1.	Rebanar 5 mangos y congelar por separado cada rebanada durante 10 minutos. Posteriormente juntarlos y seguir congelando, esto permite que no se peguen unos con otros y así se pueden manipular con facilidad.
+        \n 2.	Licuar el yogur y el mango restante.
+        \n 3.	Añadir la mezcla y las nueces a los mangos ya congelados.
+        \n 4.	Adornar con las hojas de menta.
+        \n 5.	Listos para consumir.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="manzanas_al_horno">Manzanas al horno</string>
+    <string name="ingre_manzanashorno">
+        \n 6 manzanas rojas
+        \n 3 cucharadas de margarina
+        \n 1 cucharada de canela
+        \n 100 g de nueces picadas
+        \n 60 g de arándanos
+        \n 2 cucharadas de pasas
+    </string>
+    <string name="prep_manzanashorno">
+        \n 1.	Lavar y cortar las manzanas a la mitad sin pelarlas.
+        \n 2.	Calentar al horno a 200 °C
+        \n 3.	En una bandeja de horno, untar 1 cucharada de margarina y posteriormente colocar las manzanas.
+        \n 4.	Espolvorear la canela y rellenar las manzanas con las nueces, el resto de la mantequilla, los arándanos y las pasas.
+        \n 5.	Hornear durante 20 minutos.
+        \n 6.	Listas para disfrutar.
+    </string>
+
+<!--    QUINTA RECEtA-->
+    <string name="duraznos_congelados">Duraznos congelados</string>
+    <string name="ingre_duraznoscongelados">
+        \n 1.	Quitar el hueso a los duraznos y dejar la cascara.
+        \n 2.	Cortarlos a la mitad y colocarlos separados unos de otros en un recipiente de plástico con tapa.
+        \n 3.	Calentar el jugo de manzana y el de piña hasta que estén tibios.
+        \n 4.	Cubrir los duraznos con los jugos y tapar enseguida.
+        \n 5.	Congelar.
+        \n 6.	Para consumir los duraznos, descongelarlos primero y preparar la receta preferida.
+    </string>
 </resources>
