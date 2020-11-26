@@ -1,0 +1,208 @@
+<resources>
+<!--    SECCION ENSALADAS-->
+<!--    PRIMER RECETA-->
+    <string name="ensalada_de_espinacas_con_champinones">Ensalada de espinacas con champiñones </string>
+    <string name="ingre_ensaladaEspinacasChampinones">
+        \n 6 tazas de espinacas
+        \n 3 tazas de champiñones
+        \n 1 zanahoria
+        \n 1 calabacita
+        \n 1 rama de perejil
+        \n 2 cucharadas de champiñones
+        \n 1 diente de ajo
+        \n 1 cucharada de aceite de oliva
+        \n 1 limón (el jugo)
+        \n 1 cucharada de mostaza
+    </string>
+    <string name="prep_ensaladaEspinacasChampinones">
+        \n 1.	Lavar, desinfectar, escurrir y trozar las hojas de espinacas y el perejil.
+        \n 2.	Lavar, desinfectar y cortar en tiras la zanahoria y la calabacita.
+        \n 3.	Lavar, desinfectar y filetear los champiñones.
+        \n 4.	Licuar el ajo, el aceite de oliva, el jugo de limón y la mostaza. Agregar esta mezcla a los champiñones, la zanahoria y la calabacita para marinar durante 1 hora. Posteriormente cocinar durante 5 minutos a fuego lento, desechar el agua de la cocción.
+        \n 5.	En una fuente colocar las espinacas frescas y el perejil. Agregar los ingredientes previamente cocidos y mezclar todo hasta que incorpore perfectamente.
+        \n 6.	Agregar los piñones.
+        \n 7.	Servir en el momento.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="ensalada_de_trigo">Ensalada de trigo</string>
+    <string name="ingre_ensaladaTrigo">
+        \n 2 tazas de granos de trigo cocido triturados
+        \n 1 rama de perejil chino
+        \n 1 cebolla chica finamente picada
+        \n ½ pimiento morrón rojo
+        \n 2 tomates
+        \n 2 cucharadas de aceite de oliva
+        \n 1 aguacate
+        \n 4 limones
+        \n 2 cucharadas de menta
+    </string>
+    <string name="prep_ensaladaTrigo">
+        \n 1.	Cocer los granos de trigo y posteriormente triturarlos.
+        \n 2.	Lavar, desinfectar y picar finamente el perejil, la cebolla, el pimiento morrón y los tomates.
+        \n 3.	Mezclar todos los ingredientes y agregar el jugo de los limones y la menta.
+        \n 4.	Adornar con aguacate en cuadritos.
+        \n 5.	Lista para consumir.
+    </string>
+
+<!--    TERCERA RECETA-->
+    <string name="ensalada_de_zanahoria">Ensalada de zanahoria</string>
+    <string name="ingre_ensaladaZanahoria">
+        \n 3 zanahorias ralladas
+        \n 1 taza de piña en cuadritos
+        \n 3 cucharadas de coco fresco rallado
+        \n 2 cucharadas de pasitas
+        \n ½ taza de jugo de piña
+        \n ½ taza de almendras crujientes
+    </string>
+    <string name="prep_ensaladaZanahoria">
+        \n 1.	Lavar y rallar las zanahorias.
+        \n 2.	Lavar y picar en cuadritos la piña.
+        \n 3.	Mezclar todos los ingredientes y refrigerar durante 1 hora.
+        \n 4.	Servir fría.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="ensalada_mixta">Ensalada mixta</string>
+    <string name="ingre_ensaladaMixta">
+        \n ½ pimiento rojo en tiras
+        \n ½ pimiento verde en tiras
+        \n 2 tazas de champiñones fileteados
+        \n 1 ½ elote cocido en trozos
+        \n 4 cucharadas de aceite de oliva
+        \n 2 limones (el jugo)
+        \n 1 cucharada de orégano molido
+        \n 1 cucharada de tomillo seco
+        \n ½ cucharadita de sal de mar
+        \n 2 tazas de brócoli
+        \n 1 taza de coliflor
+        \n 1 zanahoria en tiras
+        \n 1 calabacita en tiras
+    </string>
+    <string name="prep_ensaladaMixta">
+        \n 1.	Lavar, desinfectar y trozar el brócoli y coliflor.
+        \n 2.	Lavar y cortar en tiras la zanahoria, la calabacita y los pimientos.
+        \n 3.	Lavar, desinfectar y rebanar los champiñones.
+        \n 4.	Licuar el aceite de oliva, el vinagre, el orégano, el tomillo y la sal.
+        \n 5.	En un recipiente colocar las verduras anteriormente mencionadas junto con el elote previamente cocido y mezclar con lo licuado.
+        \n 6.	Dejar reposar las verduras durante 1 hora para que se marinen.
+        \n 7.	En un sartén agregar las verduras, taparlas y cocinarlas durante unos minutos a fuego lento de tal manera que queden crujientes.
+        \n 8.	Lista para consumir.
+    </string>
+
+<!--    QUINTA RECETA-->
+    <string name="ensalada_waldorf">Ensalada waldorf</string>
+    <string name="ingre_ensaldaWaldorf">
+        \n ½ taza de tofu en cuadritos o queso cottage
+        \n 2 manzanas rojas
+        \n 1 manzana amarilla
+        \n 1 rama de apio
+        \n 3 tazas de lechuga orejona
+        \n 3 tazas de lechuga escarola
+        \n 100g de nueces de la india
+        \n 60 g de pasas
+        \n 1 limón (jugo)
+        \n ½ cucharadita de sal
+    </string>
+    <string name="prep_ensaladaWaldorf">
+        \n 1.	Lavar y desinfectar las lechugas y trozarlas.
+        \n 2.	Lavar y picar las manzanas en plumas.
+        \n 3.	Lavar y desinfectar el apio y cortar en tiras.
+        \n 4.	En un recipiente colocar las lechugas, las manzanas y el apio. Mezclar perfectamente.
+        \n 5.	Añadir a lo anterior las nueces en mitades, las pasas, el jugo de limón y sal.
+        \n 6.	Agregar en el centro de la ensalada el queso cottage o el tofu y refrigerar.
+        \n 7.	Lista para disfrutar.
+    </string>
+    
+<!--    SECCION DE ADEREZOS-->
+<!--    PRIMER RECETA-->
+    <string name="aderezo_de_ajo">Aderezo de ajo</string>
+    <string name="ingre_aderezoAjo">
+        \n 3 dientes de ajo
+        \n 1 rodaja de cebolla
+        \n 5 cucharadas de jugo de limón
+        \n 3 cucharadas de aceite de oliva
+        \n 1 rama de menta
+        \n 1 cucharadita de sal marina
+        \n ½ cucharadita de orégano.
+    </string>
+    <string name="prep_aderezoAjo">
+        \n 1.	Licuar todos los ingredientes (una vez lavados y troceados) hasta que quede una mezcla fina y homogénea.
+        \n 2.	Este aderezo se usa en ensaladas, de preferencia frescas, o en alguna pasta.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="aderezo_de_perejil">Aderezo de perejil</string>
+    <string name="ingre_aderezoPerejil">
+        \n 1 taza de perejil crudo picado
+        \n 1 rodaja de cebolla
+        \n 5 cucharadas de jugo de limón
+        \n 3 cucharadas de aceite de oliva
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_aderezoPerejil">
+        \n 1.	Licuar perfectamente todos los ingredientes.
+        \n 2.	Listo para servir en ensaladas.
+    </string>
+
+<!--    SECCION DE CREMAS-->}
+<!--    PRIMER RECETA-->
+    <string name="crema_de_zanahoria">Crema de zanahoria</string>
+    <string name="ingre_cremaZanahoria">
+        \n 3 zanahorias
+        \n 1 cucharada de crema
+        \n 1 taza de leche de soya
+        \n 3 tazas de agua tibia
+        \n 1 rama de apio
+        \n 1 cucharada de cebolla picada
+        \n ½ diente de ajo finamente picado
+        \n 1 ½ cucharada de mantequilla
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_cremaZanahoria">
+        \n 1.	Lavar las zanahorias.
+        \n 2.	En una cacerola, cocer las zanahorias durante 7 minutos con poca agua.
+        \n 3.	Licuar las zanahorias cocidas, la crema y el apio con la leche y el agua.
+        \n 4.	En una cacerola, añadir el aceite y acitronar la cebolla y el ajo.
+        \n 5.	Vaciar a la cacerola lo licuado y añadir la sal.
+        \n 6.	Hervir la crema y servir caliente.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="crema_de_calabacitas">Crema de calabacitas</string>
+    <string name="ingre_cremaCalabacitas">
+        \n 3 calabacitas
+        \n 1 taza de agua caliente
+        \n 3 tazas de leche de soya
+        \n 1 ½ cucharada de mantequilla
+        \n 1 cucharada de cebolla finamente picada
+    </string>
+    <string name="prep_cremaCalabacitas">
+        \n 1.	Rebanar las calabacitas y cocinarlas durante 5 minutos.
+        \n 2.	Licuar las calabacitas con la leche y el agua.
+        \n 3.	En una sartén, acitronar la cebolla finamente picada con la mantequilla y verter lo licuado.
+        \n 4.	Dejar que hierva y servir caliente
+    </string>
+
+<!--    TERCERA RECETA-->
+    <string name="crema_de_aguacate">Crema de aguacate</string>
+    <string name="ingre_cremaAguacate">
+        \n 1 aguacate
+        \n 2 cucharadas de crema
+        \n 1 rama de perejil
+        \n 4 tazas de agua purificada
+        \n ½ cebolla finamente picada
+        \n 1 cucharada de aceite de oliva
+        \n 1 taza de tiras de tortillas doradas
+        \n 1 cucharadita de sal marina
+        \n 1 tomate cortado en forma de rosa
+        \n 1 cucharada de jugo de limón
+    </string>
+    <string name="prep_cremaAguacate">
+        \n 1.	En una sartén, acitronar la cebolla en el aceite.
+        \n 2.	Licuar el aguacate, la crema, el perejil, la cebolla acitronada y la sal con el agua purificada.
+        \n 3.	Añadir el jugo de limón.
+        \n 4.	Disfrutar la crema de aguacate fría. Servir con tiras de tortilla de maíz tostaditas y adornar con el tomate cortado en forma de rosa.
+    </string>
+
+</resources>
