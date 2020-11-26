@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Salud Con Sabor</string>
+    <!-- STRINGS GENERALES PARA INGREDIENTES Y PREPARACION-->
+    <string name="ingredientes">INGREDIENTES</string>
+    <string name="preparacion">PREPARACIÓN</string>
+    
+<!--    STRINGS PARA LAS PORCIONES DE LAS RECETAS-->
+    <string name="dos_raciones">Rinde 2 raciones</string>
+    <string name="tres_raciones">Rinde 3 raciones</string>
+    <string name="cuatro_raciones">Rinde 4 raciones</string>
+    <string name="seis_raciones">Rinde 6 raciones</string>
+    <string name="diez_raciones">Rinde 10 raciones</string>
 </resources>
