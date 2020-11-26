@@ -1,0 +1,291 @@
+<resources>
+<!--   SECCION JUGOS DE FRUTA-->
+<!--    PRIMER RECETA-->
+    <string name="jugo_desintoxicante">Jugo desintoxicante</string>
+    <string name="ingre_jugoDesintoxicante">
+        \n 1 taza de jugo de naranja
+        \n 1 taza de jugo de piña
+        \n 3 piezas de xoconostle
+        \n 1 nopal
+        \n 2 cucharadas de sábila
+        \n ½ pieza de chayote
+    </string>
+    <string name="prep_jugoDesintoxicante">
+        \n 1.	Licuar perfectamente todos los ingredientes en crudo con 1 taza de agua. Cuando estén bien licuados, agregar el jugo.
+        \n 2.	Consumir inmediatamente.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="jugo_digestivo">Jugo digestivo</string>
+    <string name="ingre_jugoDigestivo">
+        \n ¾ taza de piña
+        \n 1 taza de papaya
+        \n 4 ciruelas pasas deshuesadas
+        \n 1 mango Ataúlfo maduro
+        \n 1 taza de jugo de naranja
+        \n 1 cucharadita de jengibre fresco
+        \n 1 taza de agua purificada
+    </string>
+    <string name="prep_jugoDigestivo">
+        \n 1.	Lavar, desinfectar y cortar las frutas.
+        \n 2.	Licuar perfectamente todos los ingredientes.
+        \n 3.	Se sirve frío.
+    </string>
+
+<!--    TERCERA RECETA-->
+    <string name="jugo_antioxidante">jugo_antioxidante</string>
+    <string name="ingre_jugoAntioxidante">
+        \n 125 g de arándanos frescos
+        \n 1 granada roja
+        \n 1 taza de uvas
+        \n ½ de taza de jugo de limón
+        \n 1 taza de jugo de naranja
+        \n 1 cucharada de miel
+    </string>
+    <string name="prep_jugoAntioxidante">
+        \n 1.	Lavar y desinfectar la fruta.
+        \n 2.	Licuar perfectamente la fruta en la licuadora con el jugo y la miel.
+        \n 3.	Consumir inmediatamente.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="bebida_frutal">Bebidaa frutal</string>
+    <string name="ingre_bebidaFrutal">
+        \n 1 mango Ataúlfo maduro
+        \n 1 taza de papaya
+        \n 1 taza de fresas
+        \n 3 duraznos
+        \n 2 tazas de jugo de naranja
+        \n 2 cucharadas de azúcar mascabado
+        \n 1 litro de agua
+        \n Hielo al gusto
+    </string>
+    <string name="prep_bebidaFrutal">
+        \n 1.	Lavar, desinfectar y cortar la fruta.
+        \n 2.	Licuar perfectamente la fruta en la licuadora con los demás ingredientes.
+        \n 3.	Añadir hielo y servir
+    </string>
+
+<!--    QUINTA RECETA-->
+    <string name="bebida_refrescante">Bebida refrescante</string>
+    <string name="ingre_bebidaRefrescante">
+        \n 1 melón
+        \n ½ taza de maracuyá rebanado
+        \n 2 tazas de jugo de mandarina
+        \n 2 cucharadas de azúcar mascabado
+        \n 2 tazas de agua purificada
+        \n Hielo al gusto
+    </string>
+    <string name="prep_bebidaRefrescante">
+        \n 1.	Lavar el melón y cortarlo en trozos.
+        \n 2.	Licuar perfectamente en la licuadora con los demás ingredientes.
+        \n 3.	Lista para servir.
+    </string>
+    
+<!--    SECCION BEBIDAS CALIENTES-->
+<!--    PRIMER RECETA-->
+    <string name="atole_de_algarrobo">Atole de algarrobo</string>
+    <string name="ingre_atoleAlgarrobo">
+        \n 1 litro de leche de soya
+        \n 4 cucharadas de maicena
+        \n ¼ taza de algarrobo en polvo
+        \n 2 cucharadas de vainilla
+        \n 2 cucharadas de miel
+        \n 1 raja de canela
+    </string>
+    <string name="prep_atoleAlgarrobo">
+        \n 1.	Remojar la maicena en un recipiente con la leche hasta que se disuelva; añadir el polvo de algarrobo, la vainilla y la miel.
+        \n 2.	Licuar los ingredientes ya previamente mencionados.
+        \n 3.	Vaciar lo licuado a una ollita y cocinar a fuego lento con la canela hasta que hierva bien.
+        \n 4.	Retirar del fuego.
+        \n 5.	Servir el atole caliente.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="atole_de_avena">Atole de avena/string>
+    <string name="ingre_atoleAvena">
+        \n 1 taza de avena
+        \n 2 tazas de leche de soya
+        \n 1 raja de canela
+        \n 20 piezas de almendras
+        \n 2 cucharadas de pasas
+        \n 2 cucharadas de miel
+        \n 1 taza de agua
+    </string>
+    <string name="prep_atoleAvena">
+        \n 1.	En una ollita verter el agua, la leche y la canela hasta hervir.
+        \n 2.	Inmediatamente añadir la avena y tapar.
+        \n 3.	Lavar las almendras y pasitas con agua muy caliente. Después licuarlas con la miel y añadir a la avena cocida.
+        \n 4.	Consumir caliente.
+    </string>
+
+<!--    TERCERA RECETA-->
+    <string name="atole_de_trigo">Atelo de trigo</string>
+    <string name="ingre_atoleTrigo">
+        \n ¼ taza de harina de trigo integral
+        \n 4 cucharadas de ajonjolí tostado
+        \n 3 tazas de leche de soya
+        \n 10 piezas de almendras
+        \n 1 plátano maduro
+        \n 1 taza de agua
+        \n 1 raja de canela
+        \n 1 cucharada de miel.
+    </string>
+    <string name="prep_atoleTrigo">
+        \n 1.	Dorar la harina en un sartén.
+        \n 2.	Colocar le leche en un recipiente y añadir la harina tostada.
+        \n 3.	Moler el ajonjolí y las almendras en un molino o en la licuadora.
+        \n 4.	Mezclar todos los ingredientes excepto el plátano y vaciar en una cacerola a fuego lento, moviendo hasta que tome la consistencia adecuada.
+        \n 5.	Al servir el atole, añadir el plátano licuado para endulzarlo.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="te_relajante">Té relajante</string>
+    <string name="ingre_teRelajante">
+        \n 1 rama de manzanilla
+        \n 1 rama de albahaca
+        \n 1 sobre de té de tila
+        \n 1 sobre de té de valeriana
+        \n 4 cucharadas de piloncillo
+        \n 4 ½ tazas de agua
+    </string>
+    <string name="prep_teRelajante">
+        \n 1.	En una ollita colocar las 4 ½ tazas de agua y el piloncillo hasta que hiervan. Agregar todos los ingredientes y hervir durante.
+        \n 2.	Se sirve caliente.
+    </string>
+
+<!--    QUINTA RECETA-->
+    <string name="te_rojo_de_frutas_y_flores">Té rojo de frutas y flores</string>
+    <string name="ingre_teRojo">
+        \n 1 granada desgranada
+        \n ½ taza de flores de Jamaica
+        \n ½ taza de zarzamoras
+        \n ½ taza de fresas en rodajas
+        \n 1 rama de canela
+        \n Agua purificada
+        \n 4 cucharaditas de azúcar mascabado
+    </string>
+    <string name="prep_teRojo">
+        \n 1.	Lavar las flores de Jamaica, hervir junto con la canela y el azúcar en el agua purificada durante 5 minutos. Agregar entonces los demás ingredientes previamente lavados y desinfectados.
+        \n 2.	 Hervir durante 10 minutos más.
+        \n 3.	Se sirve caliente.
+    </string>
+
+<!--    SECCION LICUADOS-->
+<!--    PRIMER RECETA-->
+    <string name="licuado_de_mango">Licuado de mango</string>
+    <string name="ingre_licuadoMango">
+        \n 2 tazas de leche de soya
+        \n 1 mango maduro en cuadritos
+        \n 1 cucharada de miel
+        \n ½ taza de hielo
+    </string>
+    <string name="prep_licuadoMango">
+        \n 1.	Licuar todo y servir al instante.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="licuado_hiperproteico">Licuado hiperproteico</string>
+    <string name="ingre_licuadoHiperproteico">
+        \n 1 taza de leche de soya
+        \n 1 taza de yogur natural
+        \n 1 plátano
+        \n 2 cucharadas de ajonjolí molido
+        \n 2 cucharadas de nueces molidas
+        \n 10 almendras molidas
+        \n 2 cucharadas de algarrobo en polvo
+        \n 1 cucharada de lecitina de soya granulada
+        \n 1 cucharada de miel
+        \n ½ taza de hielo
+    </string>
+    <string name="prep_licuadoHiperproteico">
+        \n 1.	Licuar todos los ingredientes.
+        \n 2.	Disfrutar frio.
+    </string>
+
+<!--    TERCERA RECETA-->
+    <string name="licuado_de_amaranto">Licuado de amaranto</string>
+    <string name="ingre_licuadoAmaranto">
+        \n 2 tazas de leche de soya fría
+        \n ½ taza de amaranto
+        \n 10 piezas de almendras molidas
+        \n 1 plátano
+    </string>
+    <string name="prep_licuadoAmaranto">
+        \n 1.	Licuar todos los ingredientes.
+        \n 2.	Tomar frio.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="licuado_de_manzana">Licuado de manzana</string>
+    <string name="ingre_licuadoManzana">
+        \n 1 manzana
+        \n 2 tazas de leche de soya
+        \n 1 cucharada de miel
+        \n 3 cucharadas de avena
+        \n 1 cucharada de vainilla
+        \n 2 tazas de agua fría
+    </string>
+    <string name="prep_licuadoManzana">
+        \n 1.	Licuar todos los ingredientes.
+        \n 2.	Servir frio.
+    </string>
+
+<!--    QUINTA RECETA-->
+    <string name="licuado_de_papaya">Licuado de papaya</string>
+    <string name="ingre_licuadoPapaya">
+        \n 1 taza de papaya
+        \n 2 tazas de leche de soya
+        \n 1 cucharada de miel
+        \n ½ taza de hielo
+    </string>
+    <string name="prep_licuadoPapaya">
+       \n 1.	Licuar todo perfectamente y servir al instante.
+    </string>
+
+<!--    SECCION DE MALTEADAS-->
+<!--    PRIMER RECETA-->
+    <string name="malteada_de_algarrobo">Malteada de algarrobo</string>
+    <string name="ingre_malteadaAlgarrobo">
+        \n 1 taza de leche de soya
+        \n 3 cucharadas de leche de soya en polvo
+        \n 2 cucharadas de algarrobo en polvo
+        \n 1 plátano
+        \n 10 almendras
+        \n ½ taza de hielo tipo frappé
+    </string>
+    <string name="prep_malteadaAlgarrobo">
+        \n 1.	Licuar todos los ingredientes y servir en seguida.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="malteada_de_almendras">Malteada de almendras</string>
+    <string name="ingre_malteadaAlmendras">
+        \n 20 almendras
+        \n 1 taza de leche de soya
+        \n 1 taza de yogur natural
+        \n 1 cucharada de ajonjolí tostado
+        \n 1 cucharada de vainilla
+        \n 1 cucharada de miel
+        \n ½ taza de hielo tipo frappé
+    </string>
+    <string name="prep_malteadaAlmendras">
+        \n 1.	Congelar el yogur natural.
+        \n 2.	Remojar las almendras en agua caliente y quitarles la cáscara.
+        \n 3.	Licuar todos los ingredientes incluyendo el yogur congelado.
+        \n 4.	Disfrutar inmediatamente después de prepararla.
+    </string>
+
+<!--    TERCER RECETA-->
+    <string name="malteada_de_zanahoria_y_coco">Malteada de zanahoria y coco</string>
+    <string name="prep_malteadaZanaCoco">
+        \n 1 taza de leche de soya
+        \n ½ taza de yogur
+        \n ½ taza de jugo de zanahoria
+        \n 3 cucharadas de coco rallado
+        \n ½ taza de hielo tipo frappé
+    </string>
+    <string name="ingre_malteadaZanaCoco">
+        \n 1.	Licuar todos los ingredientes y disfrutar la malteada fría.
+    </string>
+</resources>
