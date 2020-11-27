@@ -8,5 +8,9 @@
     <string name="tres_raciones">Rinde 3 raciones</string>
     <string name="cuatro_raciones">Rinde 4 raciones</string>
     <string name="seis_raciones">Rinde 6 raciones</string>
+    <string name="ocho_raciones">Rinde 8 raciones</string>
     <string name="diez_raciones">Rinde 10 raciones</string>
+    <string name="doce_raciones">Rinde 12 raciones</string>
+    <string name="dieciseis_raciones">Rinde 16 raciones</string>
+    <string name="veinte_raciones">Rinde 20 raciones</string>
 </resources>
