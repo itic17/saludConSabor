@@ -1,0 +1,165 @@
+<resources>
+<!--    SECCION PANES-->
+<!--    PRIMER RECETA-->
+    <string name="pan_de_platano">Pan de plátano</string>
+    <string name="ingre_panPlatano">
+        \n 2 plátanos maduros
+        \n 1 taza de harina integral molida
+        \n 3 cucharadas de aceite vegetal
+        \n 1 taza de leche descremada o de soya
+        \n 1 cucharada de polvo para hornear
+        \n 2 cucharadas de miel
+        \n 1 taza de avena molida
+    </string>
+    <string name="ingre_panPlatano">
+        \n 1.	Mezclar los ingredientes secos (harina, avena y polvo para hornear).
+        \n 2.	Licuar los plátanos con la leche. Añadir poco a poco dos cucharadas de aceite y la miel hasta que todo quede bien licuado. Mezclar perfectamente los sólidos con los líquidos en un recipiente.
+        \n 3.	Poner la masa obtenida en un recipiente aceitado y mantener durante 1 hora a 185°C en el horno previamente calentado. Comprobar que está hecho el pan de plátano al introducir un palillo que salga seco.
+        \n 4.	Desmoldar en caliente y dejar enfriar.
+        \n 5.	Servir.
+    </string>
+    
+<!--    SEGUNDA RECETA-->
+    <string name="pan_sin_levadura">Pan sin levadura</string>
+    <string name="ingre_panLevadura">
+        \n 2 tazas de harina integral molida
+        \n ½ taza de aceite de oliva
+        \n 1/3 taza de agua fría
+    </string>
+    <string name="prep_panLevadura">
+        \n 1.	Mezclar bien el aceite con la harina usando un tenedor. Añadir poco a poco el agua y con una palita de madera unir todo.
+        \n 2.	Formar suavemente 3 bolas sin amasarlas por mucho tiempo.
+        \n 3.	Entre dos papeles encerados o de plástico, extender la masa con un rodillo dejándolas de 1 cm de grueso. Con cuidado pasarlas a un molde sin engrasar y con un cuchillo procurar marcar cuadros de 1.5 x 1.5 cm aproximadamente.
+        \n 4.	Con un tenedor picar la masa ya extendida y cortada para que se cocine perfectamente.
+        \n 5.	Hornear a 190°C durante 3 minutos o hasta que doren un poco, cuidando que no se quemen.
+        \n 6.	Enfriar antes de servir.
+    </string>
+
+<!--    TERCER RECETA-->
+    <string name="pan_de_avena">Pan de avena</string>
+    <string name="ingre_panAvena">
+        \n 1 taza de avena
+        \n 1 taza de salvado de trigo
+        \n 2 ½ tazas de agua
+        \n 1 huevo
+        \n 3 cucharadas de aceite vegetal
+        \n 3 tazas de harina de trigo integral molida
+        \n 2 cucharaditas de polvo para hornear
+        \n 2 cucharadas de azúcar mascabado
+        \n ¼ taza de semillas de ajonjolí tostado
+    </string>
+    <string name="prep_panAvena">
+        \n 1.	Mezclar los ingredientes secos (avena, harina, salvado de trigo, polvo para hornear, azúcar y ajonjolí).
+        \n 2.	Batir el huevo con 2 cucharadas de aceite y el agua.
+        \n 3.	Incorporar los ingredientes secos y seguir batiendo la mezcla durante 3 minutos.
+        \n 4.	Vaciar la mezcla en un molde previamente engrasado con una cucharada de aceite.
+        \n 5.	Hornear durante 1 hora a 190°C.
+        \n 6.	Introducir un palillo para verificar que se haya cocido la parte interna del pan. Al salir el palillo limpio indica que está listo.
+        \n 7.	Enfriar, partir el pan y consumir.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="piedras_de_nuez">Piedras de nuez</string>
+    <string name="ingre_piedrasNuez">
+        \n 3 nueces enteras
+        \n 1 cucharada de canela en polvo
+        \n 1 cucharadita de sal
+        \n ¼ taza de azúcar mascabado
+        \n ¼ de mantequilla
+        \n ½ taza de pasas
+        \n 1 huevo
+        \n ½ taza de agua purificada
+        \n ½ taza de nueces finamente picadas
+        \n 2 tazas de harina de trigo integral molida
+        \n 2 cucharaditas de polvo para hornear
+    </string>
+    <string name="prep_piedrasNuez">
+        \n 1.	Incorporar en un recipiente las nueces picadas, la harina de trigo, el polvo para hornear, la canela en polvo, el azúcar y la sal.
+        \n 2.	Batir el huevo con el agua.
+        \n 3.	Mezclar todos los ingredientes anteriores, agregar las pasitas y formar una bola suave, pero firme.
+        \n 4.	Untar una bandeja con un poco de aceite hasta que quede engrasada. Con una cuchara colocar las bolas o <<piedras>> y adornar cada una con una mitad de nuez.
+        \n 5.	Hornear durante 30 minutos a 190°C.
+        \n 6.	Retirar del horno cuando estén doradas.
+        \n 7.	Enfriar y listas para consumir.
+    </string>
+
+<!--    SECCION GALLETAS-->
+<!--    PRIMER RECETA-->
+    <string name="galletas_de_avena">Galletas de avena</string>
+    <string name="ingre_galletasAvena">
+        \n 1 ½ taza de avena cruda
+        \n 1 taza de harina de trigo integral molida
+        \n 1 cucharadita de polvo para hornear
+        \n 1 cucharada de canela en polvo
+        \n 1 cucharada de vainilla
+        \n ½ cucharadita de sal marina
+        \n ½ taza de azúcar mascabado
+        \n ½ taza de nueces finamente picadas
+        \n ¼ taza de pasas y arándanos
+        \n ½ taza de mantequilla
+        \n ¾ taza de leche de soya
+        \n 1 cucharada de aceite
+    </string>
+    <string name="prep_galletasAvena">
+        \n 1.	Poner la mantequilla en un refractario en pequeños pedazos y agregar todos los ingredientes. Mezclar todo muy bien.
+        \n 2.	Engrasar la charola con aceite vegetal y usando una cuchara, colocar las galletas del tamaño deseado.
+        \n 3.	Hornear las galletas durante 30 minutos a 190°C hasta que estén doradas por ambos lados.
+        \n 4.	Listas para servir.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="galletas_de_salvado">Galletas de salvado</string>
+    <string name="ingre_galletasSalvado">
+        \n 1 ½ taza de harina de trigo integral molida
+        \n 1 taza de salvado de trigo molido
+        \n 1 cucharadita de sal
+        \n ½ taza de ajonjolí tostado
+        \n ¼ de taza de aceite vegetal
+        \n 1 taza de agua purificada
+        \n 3 cucharadas de miel
+    </string>
+    <string name="prep_galletasSalvado">
+        \n 1.	Mezclar todos los ingredientes secos.
+        \n 2.	Añadir a lo anterior el aceite y el agua, amasar perfectamente y formar una bola suave.
+        \n 3.	Colocar la masa en una bandeja previamente untada con aceite vegetal y extenderla con un rodillo a 1.5 cm de grueso.
+        \n 4.	Con un cuchillo marcar cuadros y con un tenedor hacer orificios, para que no se infle la masa.
+        \n 5.	Hornear las galletas a 200°C durante 30 minutos hasta que estén doradas.
+        \n 6.	Enfriar y listas para consumir.
+    </string>
+
+<!--    TERCER RECETA-->
+    <string name="galletas_de_platano">Galletas de plátano</string>
+    <string name="ingre_galletasPlatano">
+        \n 2 plátanos tabasco maduros machacados
+        \n 1 ½ taza de avena cruda entera suave
+        \n ½ taza de harina integral cernida
+        \n ½ taza de uvas pasas remojadas
+        \n ½ taza de nueces finamente picadas
+        \n ¼ taza de aceite vegetal
+        \n 1 cucharadita de vainilla
+        \n ¼ taza de agua purificada
+    </string>
+    <string name="prep_galletasPlatano">
+        \n 1.	En un recipiente colocar los plátanos machacados junto con los demás ingredientes sólidos y líquidos.
+        \n 2.	Hacer una mezcla compacta.
+        \n 3.	Con una cuchara colocar las galletas en un molde previamente engrasado y hornear durante 45 minutos a 180°C.
+        \n 4.	Enfriar y servir.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="galletas_de_almendras">Galletas de almendras</string>
+    <string name="ingre_galletasAlmendras">
+        \n ½ taza de almendras picadas
+        \n 1 taza de harina de trigo molida
+        \n 1 taza de manzana molida
+        \n ½ taza de dátiles sin semillas molidos
+        \n ¼ taza de aceite vegetal
+        \n ½ taza de jugo de piña
+    </string>
+    <string name="prep_galletasAlmendras">
+        \n 1.	Mezclar todos los ingredientes, hasta que se incorporen perfectamente.
+        \n 2.	Dar forma de galletas redondeadas o largas.
+        \n 3.	En un molde previamente engrasado con aceite, hornear las galletas durante 40 minutos a 190°C-
+        \n 4.	Enfriarlas y listas para consumir.
+    </string>
+</resources>
