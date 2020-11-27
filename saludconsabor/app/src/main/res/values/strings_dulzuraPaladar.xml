@@ -1,0 +1,183 @@
+<resources>
+<!--    SECCION DE PAYS-->
+<!--    PRIMER RECETA-->
+    <string name="pay_de_pera">Pay de pera</string>
+    <string name="ingre_payPera">
+        \n 1 base (costra) para pay integral
+        \n 6 peras maduras
+        \n 1 taza de leche de soya
+        \n 3 cucharadas de miel
+        \n 3 cucharadas de maicena
+    </string>
+    <string name="prep_payPera">
+        \n 1.	Preparar la base (costra) para pay integral y hornear en un molde para pay.
+        \n 2.	Lavar, pelar y rebanar las peras. Colocarlas encima de la costra integral previamente horneada.
+        \n 3.	En una cacerola verter la leche, la maicena y la miel. Cocinar a fuego lento, moviendo constantemente para evitar que se pegue la mezcla. Retirar del fuego cuando tenga una consistencia espesa.
+        \n 4.	 Esperar que enfríe un poco la mezcla anterior y vaciar a las peras.
+        \n 5.	Enfriar y listo para disfrutar.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="pay_de_manzana">Pay de manzana</string>
+    <string name="ingre_payManzana">
+        \n 2 bases (costras) integrales para pay
+        \n 4 manzanas
+        \n ½ taza de jugo de manzana
+        \n 1 ½ cucharaditas de maicena
+        \n 2 cucharaditas de canela en polvo.
+    </string>
+    <string name="prep_payManzana">
+        \n 1.	Preparar las bases (costras) integrales para pay integral. Acomodar una de ellas sin hornear en un molde refractario.
+        \n 2.	Aparte, partir las manzanas con cascara en trozos pequeños y colocarlas encima de la costra.
+        \n 3.	En un recipiente mezclar el jugo, la maicena, la canela y posteriormente vaciar sobre las manzanas.
+        \n 4.	Cubrir la tarta con la otra costra integral y cerrar bien las orillas. Con un tenedor picar encima de la costra para que no se infle al momento de hornear.
+        \n 5.	Hornear durante 50 minutos a 190°C.
+        \n 6.	Retirar del horno cuando esté dorado por ambos lados.
+        \n 7.	Listo para servir.
+    </string>
+
+<!--    TERCER RECETA-->
+    <string name="pay_de_chabacano">Pay de chabacano</string>
+    <string name="ingre_payChabacano">
+        \n 1 costra integral con mantequilla sin hornear
+        \n 500 g de mitades de chabacanos maduros deshuesados
+        \n 1 taza de jugo de mandarina
+        \n 3 cucharadas de maicena
+        \n 4 cucharadas de azúcar mascabado
+        \n 1 taza de fresas
+    </string>
+    <string name="prep_payChabacano">
+        \n 1.	Preparar la receta de la costra integral con mantequilla, pero sin hornear.
+        \n 2.	Colocar encima de la costra integral con mantequilla, extendida en el molde para pay, las mitades de chabacanos, con la cascara y deshuesados.
+        \n 3.	Aparte, mezclar la maicena, el azúcar y el jugo. Vaciar sobre los chabacanos.
+        \n 4.	Cubrir el pay con la otra costra sin hornear y hacerle algunos agujeros con algún tenedor. Darle la forma deseada por las orillas cerrándolas perfectamente.
+        \n 5.	Hornear durante 50 minutos a 180°C hasta que esté dorado.
+        \n 6.	Enfriar y adornar con las fresas.
+        \n 7.	Listo para consumir.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="pay_de_platano_con_crema">Pay de plátano con crema</string>
+    <string name="ingre_payPlatanoCrema">
+        \n 1 costra de galletas
+        \n 2 plátanos maduros
+        \n 1 taza de crema batida
+    </string>
+    <string name="prep_payPlatanoCrema">
+        \n 1.	Preparar la receta de costra de galletas, sin hornear.
+        \n 2.	Colocar la costra en un refractario para pay.
+        \n 3.	Cubrir la costra con rebanadas de plátano.
+        \n 4.	Vaciar la crema batida por encima distribuyéndola perfectamente.
+        \n 5.	Hornear durante 10 minutos a 175°C.
+        \n 6.	Enfriar y listo para disfrutar.
+    </string>
+
+<!--    QUINTA RECETA-->
+    <string name="pay_de_camote">Pay de camote</string>
+    <string name="ingre_payCamote">
+        \n 1 camote cocido
+        \n 1 taza de leche evaporada
+        \n 2 sobres de gelatina Knox sin sabor
+        \n 2 cucharadas de mantequilla
+        \n 1 taza de jugo de piña
+        \n 1 cucharadita de canela en polvo
+        \n ¼ cucharadita de nuez moscada
+        \n 1 ½ cucharada de crema batida
+        \n 1 costra de avena con salvado horneado
+    </string>
+    <string name="prep_payCamote">
+        \n 1.	En una cacerola pequeña calentar ½ taza de leche evaporada y disolver en ella las gelatinas, agregando también la mantequilla.
+        \n 2.	Aparte, licuar el camote con la leche restante y el jugo.
+        \n 3.	Mezclar las gelatinas disueltas con lo licuado y añadir la canela y la nuez moscada. Verter en un refractario y enfriar.
+        \n 4.	Cuando empiece a cuajar, vaciar con cuidado a la costra de avena con salvado previamente horneada.
+        \n 5.	Untar la crema batida y refrigerar nuevamente.
+        \n 6.	Listo para disfrutar.
+    </string>
+
+<!--    SECCION DE POSTRES-->
+<!--    PRIMER RECETA-->
+    <string name="bolitas_de_ajonjoli">Bolitas de ajonjolí</string>
+    <string name="ingre_bolitasAjonjoli">
+        \n 1 taza de ajonjolí tostado
+        \n ¼ taza de pasas
+        \n 1 plátano
+    </string>
+    <string name="prep_bolitasAjonjoli">
+        \n 1.	Moler el ajonjolí junto con las pasas.
+        \n 2.	Machacar el plátano y añadir a la mezcla anterior.
+        \n 3.	Formar dulces pequeños.
+        \n 4.	Consumir inmediatamente.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="budin_de_tapioca">Budín de tapioca</string>
+    <string name="ingre_budinTapioca">
+        \n 1 litro de leche de soya
+        \n ½ taza de tapioca
+        \n 1 cucharadita de vainilla
+        \n 1 raja de canela
+        \n 2 cucharadas de miel
+    </string>
+    <string name="prep_budinTapioca">
+        \n 1.	Poner a remojar la tapioca en un litro de leche hasta que esté suave.
+        \n 2.	Cocinar a fuego lento hasta que esté cocida la tapioca. Añadir la vainilla y endulzar con la miel.
+        \n 3.	Enfriar y lista para disfrutar.
+    </string>
+    
+<!--    TERCER RECETA-->
+    <string name="arroz_con_leche">Arroz con leche</string>
+    <string name="ingre_arrozLeche">
+        \n 1 taza de arroz integral
+        \n 2 tazas de leche de soya
+        \n 2 cucharadas de miel
+        \n 1 raja de canela
+        \n 1 cucharada de vainilla
+        \n ½ taza de coco rallado
+        \n ½ taza de pasas
+        \n Agua purificada
+    </string>
+    <string name="prep_arrozLeche">
+        \n 1.	Lavar el arroz con agua caliente y dejar reposar durante 30 minutos.
+        \n 2.	Poner a cocer el arroz con el agua hasta que esté suave y agregar la leche, la canela y la vainilla. Que siga hirviendo.
+        \n 3.	Endulzar con la miel.
+        \n 4.	Retirar del fuego y añadir el coco y las pasitas.
+        \n 5.	Listo para disfrutar.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="dulce_navideño">Dulce navideño</string>
+    <string name="ingre_dulceNavideño">
+        \n 2 cucharadas de mantequilla derretida
+        \n ½ taza de almendras picadas
+        \n ¼ taza de piñones
+        \n ¼ taza de ajonjolí tostado
+        \n ½ taza de pasas
+        \n 1 taza de dátiles partidos
+        \n ½ taza de nueces picadas
+    </string>
+    <string name="prep_dulceNavideño">
+        \n 1.	Lavar las pasitas y los dátiles con agua caliente, y en un colador, retirar toda el agua.
+        \n 2.	Mezclar todos los ingredientes,
+        \n 3.	En papel encerado colocar toda la mezcla anterior, formando un rollito perfectamente distribuido.
+        \n 4.	Guardar en el congelador.
+        \n 5.	Es apropiado para las fiestas navideñas.
+    </string>
+
+<!--    QUINTA RECETA-->
+    <string name="budin_de_algarrobo">Budín de algarrobo</string>
+    <string name="ingre_budinAlgarrobo">
+        \n 4 tazas de leche de soya
+        \n ½ taza de tapioca
+        \n ¼ taza de algarrobo en polvo
+        \n 2 cucharadas de miel
+        \n 1 cucharadita de vainilla
+        \n ¼ taza de nueces picadas
+        \n 3 cucharadas de crema
+    </string>
+    <string name="prep_budinAlgarrobo">
+        \n 1.	Remojar la tapioca en la leche hasta que esté muy suave y agregar el polvo de algarrobo.
+        \n 2.	Cocinar a fuego lento durante 15 minutos o hasta que la tapioca esté cocida. Retirar del fuego y añadir la vainilla y la miel.
+        \n 3.	Enfriar
+        \n 4.	Servir con nueces picadas y una cucharadita de crema.
+    </string>
+</resources>
