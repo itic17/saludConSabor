@@ -278,14 +278,14 @@
 
 <!--    TERCER RECETA-->
     <string name="malteada_de_zanahoria_y_coco">Malteada de zanahoria y coco</string>
-    <string name="prep_malteadaZanaCoco">
+    <string name="ingre_malteadaZanaCoco">
         \n 1 taza de leche de soya
         \n ½ taza de yogur
         \n ½ taza de jugo de zanahoria
         \n 3 cucharadas de coco rallado
         \n ½ taza de hielo tipo frappé
     </string>
-    <string name="ingre_malteadaZanaCoco">
+    <string name="prep_malteadaZanaCoco">
         \n 1.	Licuar todos los ingredientes y disfrutar la malteada fría.
     </string>
 </resources>
