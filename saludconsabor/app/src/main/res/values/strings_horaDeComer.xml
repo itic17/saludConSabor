@@ -205,4 +205,259 @@
         \n 4.	Disfrutar la crema de aguacate fría. Servir con tiras de tortilla de maíz tostaditas y adornar con el tomate cortado en forma de rosa.
     </string>
 
+<!--    CUARTA RECETA/-->
+    <string name="crema_de_papa">Crema de papa</string>
+    <string name="ingre_cremaPapa">
+        \n  papas
+        \n 1 zanahoria
+        \n ½ taza de cilantro
+        \n 1 litro de agua tibia
+        \n ½ cebolla finamente picada
+        \n 1 cucharada de aceite de oliva
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_cremaPapa">
+        \n 1.	Lavar, cocer y pelar las papas y la zanahoria.
+        \n 2.	Licuar las papas, la zanahoria y el cilantro con agua tibia.
+        \n 3.	En una cacerola, acitronar la cebolla con el aceite a fuego lento.
+        \n 4.	Vaciar lo licuado a la cacerola hasta que hierva.
+        \n 5.	Agregar la sal.
+        \n 6.	Servir caliente.
+    </string>
+    
+<!--    QUINTA RECETA-->
+    <string name="crema_de_frijoles_peruanos">Crema de frijoles peruanos</string>
+    <string name="ingre_cremaFrijolesPeruanos">
+        \n 2 tazas de frijoles peruanos cocidos
+        \n 1 taza de agua purificada
+        \n 2 cucharadas de crema
+        \n 3 cucharadas de queso fresco
+        \n 1 cucharada de aceite vegetal
+        \n ½ taza de cebolla finamente picada
+        \n 1 diente de ajo rallado
+        \n 1 rama de epazote
+        \n 1 taza de tiras de tortillas doradas
+        \n 1 aguacate
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_cremaFrijolesPeruanos">
+        \n 1.	Colocar en una cacerola una cucharada de aceite. Añadir la cebolla y el ajo. Después de que estén acitronados los ingredientes añadir los frijoles ya cocidos con el caldo y el agua, hasta que hiervan.
+        \n 2.	Dejar que entibien los frijoles ya guisados y licuar con la crema.
+        \n 3.	Colocar nuevamente la crema de frijoles en la cacerola a fuego lento hasta que hiervan nuevamente con el epazote.
+        \n 4.	Se sirve caliente. Para adornar, usar queso fresco rallado, las tiras de tortillas tostadas y el aguacate en cada porción.
+    </string>
+
+<!--    SECCION DE SOPAS-->
+<!--    PRIMER RECETA-->
+    <string name="sopa_de_esparragos">Sopa de espárragos</string>
+    <string name="ingre_sopaEsparragos">
+        \n ½ kilo de espárragos frescos
+        \n 1 cucharada de aceite
+        \n ½ cebolla finamente picada
+        \n ½ taza de puré de tomate
+        \n 2 tazas de caldo de verduras
+        \n 2 tazas de agua purificada
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_sopaEsparragos">
+        \n 1.	Acitronar la cebolla con una cucharada de aceite y agregar los espárragos previamente cortados a la mitad.
+        \n 2.	Añadir el pure de tomate y la sal.
+        \n 3.	Agregar agua y hervir.
+        \n 4.	Cocinar perfectamente los espárragos hasta que estén suaves.
+        \n 5.	Servir caliente.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="sopa_de_papa_con_poro">Sopa de papa con poro</string>
+    <string name="ingre_sopaPapaPoro">
+        \n 1 ½ taza de poros
+        \n 1 ½ papa
+        \n 1 cucharada de aceite de oliva
+        \n ½ cebolla cortada en plumas
+        \n 4 tazas de agua
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_sopaPapaPoro">
+        \n 1.	Rebanar las papas en rodajas delgadas.
+        \n 2.	Cortar el poro en rodajas delgadas.
+        \n 3.	En una cacerola poner el aceite y la cebolla.
+        \n 4.	Añadir el agua, las papas y los poros.
+        \n 5.	Cocinar todo hasta que esté muy suave.
+        \n 6.	Disfrutar caliente.
+    </string>
+
+<!--    TERCER RECETA-->
+    <string name="sopa_de_chicharos_con_elote">Sopa de chicharo con elotes</string>
+    <string name="ingre_sopaChicharosElote">
+        \n 400 g de chicharos cocidos sin vaina
+        \n 1 taza de granos de elote cocidos
+        \n 2 tomates picados
+        \n 1 cucharada de aceite
+        \n ½ cebolla finamente picada
+        \n 1 diente de ajo
+        \n 1 rama de epazote
+        \n 4 tazas de agua purificada
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_sopaChicharosElote">
+        \n 1.	Dorar en el aceite la cebolla y el ajo. Agregar los tomates, añadir posteriormente los chicharos y los granos de elote.
+        \n 2.	Añadir agua y cocinar durante 10 minutos. Sazonar con sal y agregar la rama de epazote.
+        \n 3.	Servir caliente.
+    </string>
+    
+<!--    CUARTA RECETA-->
+    <string name="sopa_de_avena">Sopa de avena</string>
+    <string name="ingre_sopaAvena">
+        \n 250 g de avena cruda
+        \n 2 tomates
+        \n 1 pimiento morrón rojo
+        \n 2 cucharadas de aceite de oliva
+        \n ½ cebolla finamente picada
+        \n 1 diente de ajo rallado
+        \n 1 ½ litro de agua purificada
+        \n ½ taza de cilantro
+        \n Sal marina
+    </string>
+    <string name="prep_sopaAvena">
+        \n 1.	Cocinar en muy poca agua los tomates y el chile morrón hasta que estén suaves.
+        \n 2.	Licuar los tomates y el chile morrón ya cocidos con el ajo.
+        \n 3.	En una cacerola, acitronar la cebolla y verter la mezcla anterior.
+        \n 4.	Agregar el agua restante, las sal y el cilantro. Hervir durante 5 minutos más, retirar del fuego y tapar.
+    </string>
+
+<!--    QUINTA RECETA-->
+    <string name="sopa_garbanzo">Sopa de garbanzo</string>
+    <string name="ingre_sopaGarbanzo">
+        \n 250 g de garbanzos
+        \n 2 zanahorias partidas
+        \n 1 taza de tomate picado
+        \n 1 cucharada de aceite de oliva
+        \n 1 diente de ajo
+        \n 1 taza de cilantro picado
+        \n 1 cucharadita de orégano seco
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_sopaGarbanzo">
+        \n 1.	Poner a remojar los garbanzos durante toda la noche.
+        \n 2.	Tirar el agua y poner a cocer en agua suficiente con el ajo, la sal y el aceite.
+        \n 3.	Cuando los garbanzos ya estén muy blanditos, añadir las zanahorias, el tomate, el cilantro y el orégano seco. Hervir durante 10 minutos más.
+        \n 4.	Servir caliente.
+    </string>
+
+<!--    SECCION DE PLATILLOS PRINCIPALES-->
+<!--    PRIMER RECETA-->
+    <string name="tortillas_de_trigo">Tortillas de trigo</string>
+    <string name="ingre_tortillasTrigo">
+        \n 2 tazas de trigo cocido
+        \n 1 diente de ajo molido
+        \n 1 huevo
+        \n ½ taza de pan molido
+        \n ¼ taza de queso rallado
+        \n 1 cucharadita de sal marina
+        \n 1 pizca de pimienta
+        \n 2 cucharadas de aceite de maíz
+        \n 2 cucharadas de cebolla picada
+    </string>
+    <string name="prep_tortillaTrigo">
+        \n 1.	Licuar el trigo previamente cocido.
+        \n 2.	En un recipiente, mezclar todos los ingredientes con el trigo, excepto el aceite.
+        \n 3.	En un sartén de teflón verter el aceite y calentar.
+        \n 4.	Con una cuchara añadir la mezcla poco a poco.
+        \n 5.	Cocinar las tortitas de trigo por ambos lados, que queden doraditas.
+        \n 6.	Servir con ensalada, preparadas como para hamburguesas o con arroz.
+    </string>
+
+<!--    SEGUNDA RECETA-->
+    <string name="chorizo_de_soya">Chorizo de soya</string>
+    <string name="ingre_chorizoSoya">
+        \n 2 tazas de soya sabor a res
+        \n 1 cucharada de orégano seco
+        \n 1 cucharadita de comino
+        \n ¼ taza de vinagre de manzana
+        \n 1 cucharadita de sal marina
+        \n ¼ taza de aceite vegetal
+        \n 2 cucharadas de salsa de soya
+        \n 1 tomate asado o molido
+        \n 1 limón
+        \n 10 chiles guajillos
+        \n 1 rama de apio
+        \n ½ cebolla entera
+        \n 1 chile chipotle
+        \n 3 dientes de ajo
+    </string>
+    <string name="prep_chorizoSoya">
+        \n 1.	Remojar los chiles guajillos en agua caliente durante 1 hora, limpiarlos y licuarlos con el chile chipotle, un diente de ajo y la sal. Después colarlos bien.
+        \n 2.	Hidratar la carne de soya texturizada en ½ litro de agua, añadir el jugo de un limón. Después de aproximadamente 15 minutos de hidratación, escurrir en un colador hasta retirar toda el agua.
+        \n 3.	En una cacerola, verter ½ litro de agua y calentar a fuego moderado. Cuando hierva agregar 2 cucharadas de salsa de soya, el apio, la cebolla, el ajo y la soya previamente hidratada.
+        \n 4.	Cocinar la soya durante 10 minutos y después escurrir perfectamente con un colador. Retirar toda el agua y las verduras de cocción. La soya debe quedar seca.
+        \n 5.	Mezclar la soya anteriormente preparada con la salsa de chile guajillo, con el chipotle y añadir las especias, el aceite, el vinagre y un poco de agua purificada.
+        \n 6.	Dejar reposar y marinar durante toda la noche.
+        \n 7.	Hervir en un sartén el chorizo para que la carne acabe de cocinarse; añadir el tomate asado y molido. Poner a hervir nuevamente.
+        \n 8.	El chorizo se puede servir en taquitos, con huevo, papas, etcétera.
+    </string>
+
+<!--    TERCER RECETA-->
+    <string name="hamburguesas_de_soya">Hamburguesas de soya</string>
+    <string name="ingre_hamburguesasSoya">
+        \n 1 taza de soya texturizada
+        \n 1 taza de trigo cocido
+        \n 1 rebanada de pan integral trozado
+        \n ¼ taza de cacahuates tostados molidos
+        \n ½ taza de perejil finamente picado
+        \n ¼ taza de avena cruda
+        \n 1 huevo
+        \n ¼ taza de nueces molidas
+        \n 20 almendras molidas
+        \n ½ cebolla finamente picada
+        \n 1 cucharadita de sal marina
+        \n 2 cucharadas de aceite vegetal
+        \n ½ taza de leche de soya
+    </string>
+    <string name="prep_hamburguesasSoya">
+        \n 1.	Poner a hervir la soya en suficiente agua caliente durante 5 minutos y exprimirla muy bien.
+        \n 2.	Enjugar nuevamente la soya hidratada con agua purificada y exprimirla hasta que esté seca.
+        \n 3.	Mezclar perfectamente todos los ingredientes en un recipiente.
+        \n 4.	Poner a reposar la mezcla durante 10 minutos cubriéndola con una toallita.
+        \n 5.	Hacer las tortitas y colocarlas sobre un trozo de plástico para manipularlas mejor.
+        \n 6.	Verter el aceite a un sartén y cocinar a fuego lento las tortitas por ambos lados hasta que estén doraditas.
+        \n 7.	Listas para servir con bollitos integrales, lechuga, germinado de alfalfa, tomate y aguacate.
+    </string>
+
+<!--    CUARTA RECETA-->
+    <string name="asado_de_soya">Asado de soya</string>
+    <string name="ingre_asadoSoya">
+        \n 1 taza de frijoles de soya cocidos
+        \n 1 taza de carne de soya texturizada guisada
+        \n 1 taza de salsa de chile guajillo
+        \n ¼ taza de pan molido
+        \n 2 cucharadas de cebolla finamente picada
+        \n 2 cucharadas de aceite vegetal
+        \n 1 rama de perejil finamente picado
+        \n 1 cucharadita de sal marina
+    </string>
+    <string name="prep_asadoSoya">
+        \n 1.	Licuar los frijoles de soya en su caldo. Reservar.
+        \n 2.	Aparte, mezclar en un recipiente la soya previamente guisada, la salsa de chile guajillo antes preparada y sazonada, el pan molido, la cebolla, el aceite, el perejil y la sal.
+        \n 3.	Añadir los frijoles de soya molidos a la mezcla anterior y mover hasta que se integren bien todos los ingredientes.
+        \n 4.	Vaciar la mezcla en un refractario con tapa previamente engrasado y hornear durante 1 hora a 180°C.
+        \n 5.	Listo para disfrutar.
+    </string>
+    
+<!--    QUINTA RECETA-->
+    <string name="asado_de_garbanzo">Asado de garbanzo</string>
+    <string name="ingre_asadoGarbanzo">
+        \n 1 taza de garbanzos cocidos
+        \n ½ taza de nueces
+        \n ½ taza de avena cruda
+        \n 2 cucharadas de cebolla picada
+        \n 2 cucharadas de aceite vegetal
+        \n Hojitas de albahaca
+        \n 1 cucharadita de sal marina
+        \n 1 ½ taza de agua purificada
+    </string>
+    <string name="prep_asadoGarbanzo">
+        \n 1.	Licuar los garbanzos cocidos con todos los ingredientes.
+        \n 2.	Vaciar la mezcla en un refractario con tapa previamente engrasado y hornear durante 1 hora a 180°C.
+        \n 3.	Servir en rebanadas con salsa de tomate.
+    </string>
 </resources>
