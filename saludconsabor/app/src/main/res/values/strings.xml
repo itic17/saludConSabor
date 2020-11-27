@@ -1,4 +1,7 @@
 <resources>
+    <string name="app_name">Salud Con Sabor</string>
+    <string name="app_name_view">SALUD CON SABOR</string>
+
     <!-- STRINGS GENERALES PARA INGREDIENTES Y PREPARACION-->
     <string name="ingredientes">INGREDIENTES</string>
     <string name="preparacion">PREPARACIÓN</string>

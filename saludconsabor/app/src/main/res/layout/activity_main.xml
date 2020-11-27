@@ -6,22 +6,33 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context="com.iunis.programacionmovil.MainActivity">
-    <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Hello World!"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintTop_toTopOf="parent" app:layout_constraintVertical_bias="0.155"/>
 
-    <GridView android:layout_width="match_parent"
-              android:layout_height="match_parent"
-              android:id="@+id/gv_food"
-              android:columnWidth="150dp"
-              android:horizontalSpacing="15dp"
-              android:numColumns="auto_fit"
-              android:orientation="vertical">
-    </GridView>
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:padding="25dp"
+            android:orientation="vertical"
+            tools:ignore="MissingConstraints">
 
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="89dp"
+                app:srcCompat="@mipmap/app_icon"
+                android:id="@+id/logo"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:textColor="@color/colorDark"
+                android:fontFamily="@font/adonais"
+                android:text="@string/app_name_view"/>
+
+
+        <ListView android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:id="@+id/gv_food"
+                  android:orientation="vertical">
+        </ListView>
+    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
