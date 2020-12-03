@@ -21,13 +21,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val namesCategories = arrayOf(R.string.categoria1, R.string.categoria2, R.string.categoria3, R.string.categoria4, R.string.categoria5)
-        print(namesCategories[1])
-        categoriesList.add(ListCategories(namesCategories[0].toString(), R.drawable.image2))
-        categoriesList.add(ListCategories(namesCategories[1].toString(), R.drawable.image1))
-        categoriesList.add(ListCategories(namesCategories[2].toString(), R.drawable.imagen3))
-        categoriesList.add(ListCategories(namesCategories[3].toString(), R.drawable.imagen4))
-        categoriesList.add(ListCategories(namesCategories[4].toString(), R.drawable.imagen5))
+        val namesCategories = arrayOf<String>(R.string.categoria1.toString(), R.string.categoria2.toString(), R.string.categoria3.toString(),
+            R.string.categoria4.toString(), R.string.categoria5.toString())
+
+        categoriesList.add(ListCategories(namesCategories[0], R.drawable.image2))
+        categoriesList.add(ListCategories(namesCategories[1], R.drawable.image1))
+        categoriesList.add(ListCategories(namesCategories[2], R.drawable.imagen3))
+        categoriesList.add(ListCategories(namesCategories[3], R.drawable.imagen4))
+        categoriesList.add(ListCategories(namesCategories[4], R.drawable.imagen5))
 
         adapter = ListCategoriesAdapter(this,categoriesList)
         gv_food.adapter = adapter
