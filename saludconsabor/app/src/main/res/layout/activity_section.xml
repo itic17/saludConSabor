@@ -5,8 +5,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.iunis.programacionmovil.MainActivity">
-
+        tools:context=".SectionActivity">
     <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -32,10 +31,9 @@
 
         <ListView android:layout_width="match_parent"
                   android:layout_height="match_parent"
-                  android:id="@+id/dataView_categories"
-                  android:orientation="vertical"
-                  android:paddingLeft="10dp"
-                  android:paddingRight="10dp">
+                  android:id="@+id/dataView_sections"
+                  android:orientation="vertical">
         </ListView>
     </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

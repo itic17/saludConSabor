@@ -1,0 +1,82 @@
+{
+  "sections": [
+    {
+      "idSection": 1,
+      "section_name": "seccion1",
+      "image_section": "image1",
+      "fk_idCategory": 1
+    },
+    {
+      "idSection": 2,
+      "section_name": "seccion2",
+      "image_section": "image2",
+      "fk_idCategory": 2
+    },
+    {
+      "idSection": 3,
+      "section_name": "seccion3",
+      "image_section": "image2",
+      "fk_idCategory": 2
+    },
+    {
+      "idSection": 4,
+      "section_name": "seccion4",
+      "image_section": "image2",
+      "fk_idCategory": 2
+    },
+    {
+      "idSection": 5,
+      "section_name": "seccion5",
+      "image_section": "image2",
+      "fk_idCategory": 2
+    },
+    {
+      "idSection": 6,
+      "section_name": "seccion6",
+      "image_section": "image3",
+      "fk_idCategory": 3
+    },
+    {
+      "idSection": 7,
+      "section_name": "seccion7",
+      "image_section": "image3",
+      "fk_idCategory": 3
+    },
+    {
+      "idSection": 8,
+      "section_name": "seccion8",
+      "image_section": "image3",
+      "fk_idCategory": 3
+    },
+    {
+      "idSection": 9,
+      "section_name": "seccion9",
+      "image_section": "image3",
+      "fk_idCategory": 3
+    },
+    {
+      "idSection": 10,
+      "section_name": "seccion10",
+      "image_section": "image3",
+      "fk_idCategory": 3
+    },
+    {
+      "idSection": 11,
+      "section_name": "seccion11",
+      "image_section": "image4",
+      "fk_idCategory": 4
+    },
+    {
+      "idSection": 12,
+      "section_name": "seccion12",
+      "image_section": "image5",
+      "fk_idCategory": 5
+    },
+    {
+      "idSection": 13,
+      "section_name": "seccion13",
+      "image_section": "image5",
+      "fk_idCategory": 5
+    }
+  ]
+}

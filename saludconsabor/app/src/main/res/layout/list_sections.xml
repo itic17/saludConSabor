@@ -8,13 +8,9 @@
         android:orientation="vertical">
 
     <LinearLayout
-            xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:app="http://schemas.android.com/apk/res-auto"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingTop="10dp"
-            android:paddingBottom="10dp"
-            android:id="@+id/idcategory">
+            android:layout_marginTop="25dp">
         <ImageView android:layout_width="100dp"
                    android:layout_height="100dp"
                    android:id="@+id/imgitem_category"
@@ -27,7 +23,7 @@
                 android:orientation="vertical">
             <TextView android:layout_width="match_parent"
                       android:layout_height="wrap_content"
-                      android:id="@+id/name_category"
+                      android:id="@+id/name_section"
                       android:paddingLeft="20dp"
                       android:paddingTop="20dp"
                       android:textSize="20dp"
@@ -36,7 +32,7 @@
             <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/numbers_recipes"
+                    android:id="@+id/numbers_recipes_details"
                     android:textSize="12dp"
                     android:textColor="@color/colorGray"
                     android:paddingTop="10dp"

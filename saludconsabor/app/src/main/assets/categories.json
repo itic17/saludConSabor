@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "idCategory": 1,
+      "category_name": "categoria1",
+      "numbers_recipes": "numero_recetas1",
+      "image_category": "image1"
+    },
+    {
+      "idCategory": 2,
+      "category_name": "categoria2",
+      "numbers_recipes": "numero_recetas5",
+      "image_category": "image2"
+    },
+    {
+      "idCategory": 3,
+      "category_name": "categoria3",
+      "numbers_recipes": "numero_recetas4",
+      "image_category": "image3"
+    },
+    {
+      "idCategory": 4,
+      "category_name": "categoria4",
+      "numbers_recipes": "numero_recetas3",
+      "image_category": "image4"
+    },
+    {
+      "idCategory": 5,
+      "category_name": "categoria5",
+      "numbers_recipes": "numero_recetas2",
+      "image_category": "image5"
+    }
+  ]
+}

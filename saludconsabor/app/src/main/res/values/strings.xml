@@ -2,11 +2,47 @@
     <string name="app_name">Salud Con Sabor</string>
     <string name="app_name_view">SALUD CON SABOR</string>
 
+
     <!-- STRINGS GENERALES PARA INGREDIENTES Y PREPARACION-->
     <string name="ingredientes">INGREDIENTES</string>
     <string name="preparacion">PREPARACIÓN</string>
-    
-<!--    STRINGS PARA LAS PORCIONES DE LAS RECETAS-->
+
+
+    <!--NOMBRES DE LAS CATEGORIAS-->
+    <string name="categoria1">Frescura del Campo</string>
+    <string name="categoria2">Salud Liquida</string>
+    <string name="categoria3">Hora de comer</string>
+    <string name="categoria4">Acompañamientos de Lujo</string>
+    <string name="categoria5">Dulzura para el Paladar</string>
+
+
+    <!--NOMBRES DE LAS SECCIONES-->
+    <string name="seccion1">Platillos de fruta</string>
+    <string name="seccion2">Jugos de fruta</string>
+    <string name="seccion3">Bebidas</string>
+    <string name="seccion4">Licuados</string>
+    <string name="seccion5">Malteadas</string>
+    <string name="seccion6">Ensaladas</string>
+    <string name="seccion7">Aderezos</string>
+    <string name="seccion8">Cremas</string>
+    <string name="seccion9">Sopas</string>
+    <string name="seccion10">Platillos Principales</string>
+    <string name="seccion11">Galletas, Pan y Cereales Integrales</string>
+    <string name="seccion12">Pays y Empanadas</string>
+    <string name="seccion13">Postres y Golosinas</string>
+
+
+
+
+    <!--CANTIDAD DE RECETAS POR SECCION-->
+    <string name="numero_recetas1">5 recetas</string>
+    <string name="numero_recetas2">8 recetas</string>
+    <string name="numero_recetas3">10 recetas</string>
+    <string name="numero_recetas4">18 recetas</string>
+    <string name="numero_recetas5">22 recetas</string>
+
+
+    <!--CANTIDAD DE RACIONES POR RECETA-->
     <string name="dos_raciones">Rinde 2 raciones</string>
     <string name="tres_raciones">Rinde 3 raciones</string>
     <string name="cuatro_raciones">Rinde 4 raciones</string>
