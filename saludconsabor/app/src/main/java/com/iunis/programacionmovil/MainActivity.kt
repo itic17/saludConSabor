@@ -15,13 +15,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         getDataJsonCategories(this,dataView_categories)
-/*
-        var ly_idcategoria = findViewById(R.id.idcategory) as LinearLayout
 
 
-        ly_idcategoria.setOnClickListener{
-
-            Toast.makeText(this@MainActivity, "sdfsdfsdfsdf", Toast.LENGTH_LONG).show()
-        }*/
     }
 }

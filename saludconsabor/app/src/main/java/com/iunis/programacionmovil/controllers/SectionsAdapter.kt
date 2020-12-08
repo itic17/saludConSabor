@@ -1,20 +1,12 @@
 package com.iunis.programacionmovil.controllers
 
 import android.content.Context
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import android.widget.BaseAdapter
-import com.iunis.programacionmovil.R
-import com.iunis.programacionmovil.models.CategoriesModel
-import kotlinx.android.synthetic.main.list_categories.view.*
+import com.iunis.programacionmovil.models.SectionsModel
 
-class CategoriesAdapter(private val context: Context, private val categoriesArrayList: ArrayList<CategoriesModel>) : BaseAdapter() {
-    override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
+class SectionsAdapter(context: Context, categoriesArrayList: ArrayList<SectionsModel>) {
+    /*override fun getView(position: Int, convertView: View?, parent: ViewGroup?): View {
         //sacar cada alumno para ubicarlo en el ListView
         val category_item = this.categoriesArrayList[position]
-
-        print("mensaje de prueba de id"+ category_item.id)
         var inflator = context!!.getSystemService(Context.LAYOUT_INFLATER_SERVICE) as LayoutInflater
 
         var categoriesListView = inflator.inflate(R.layout.list_categories, null)
@@ -36,5 +28,5 @@ class CategoriesAdapter(private val context: Context, private val categoriesArra
 
     override fun getItemId(position: Int): Long {
         return position.toLong()
-    }
+    }*/
 }

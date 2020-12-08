@@ -2,14 +2,12 @@ package com.iunis.programacionmovil.utils
 
 import android.content.Context
 import android.content.res.Resources
-import android.os.Bundle
 import android.util.Log
 import android.widget.ListView
-import android.widget.Toast
-import com.iunis.programacionmovil.R
 import com.iunis.programacionmovil.controllers.CategoriesAdapter
+import com.iunis.programacionmovil.controllers.SectionsAdapter
 import com.iunis.programacionmovil.models.CategoriesModel
-import kotlinx.android.synthetic.main.list_categories.view.*
+import com.iunis.programacionmovil.models.SectionsModel
 import org.json.JSONArray
 import org.json.JSONObject
 import java.io.IOException
@@ -55,6 +53,7 @@ fun getDataJsonCategories(context: Context, dataCategoriesListView: ListView){
     for(index in 0 until categoriesList.length()){
         var dataInner : JSONObject = categoriesList.getJSONObject(index)
         var id_category: Int = dataInner.getInt("idCategory")
+        println("el id es $id_category")
         var category_name: String = dataInner.getString("category_name")
         var numbers_recipes: String = dataInner.getString("numbers_recipes")
         var image_path: String = dataInner.getString("image_category")
@@ -74,10 +73,61 @@ fun getDataJsonCategories(context: Context, dataCategoriesListView: ListView){
     adapter = CategoriesAdapter(context, categoriesArrayList)
     dataCategoriesListView.adapter = adapter
 
-    /*
+
     dataCategoriesListView.setOnItemClickListener(){adapterView, view, position, id->
         val itempositionById = adapterView.getItemIdAtPosition(position)
-        Toast.makeText(context, "El ID es $itempositionById", Toast.LENGTH_SHORT).show()
+        CategoryController(itempositionById)
 
-    }*/
+        //Toast.makeText(context, "El ID es $itempositionById", Toast.LENGTH_SHORT).show()
+
+    }
 }
+
+fun CategoryController(idselecionado: Long): Long {
+    var newId=idselecionado+1
+    println("el id selecionado es $newId")
+    return newId
+}
+
+
+/***
+ * Esta funcion obtiene los datos de categories.json
+ *//*
+fun getDataJsonSections(context: Context, dataSectionsListView: ListView){
+    var categoriesArrayList = ArrayList<SectionsModel>()
+    var adapter:SectionsAdapter?=null
+    var recursos: Resources? = context.resources
+    val jsonObjetCategory = JSONObject(readJSON(context, "section.json"))
+    val categoriesList = JSONArray(jsonObjetCategory.get("sections").toString())
+
+    for(index in 0 until categoriesList.length()){
+        var dataInner : JSONObject = categoriesList.getJSONObject(index)
+        var id_category: Int = dataInner.getInt("idSection")
+        var category_name: String = dataInner.getString("section_name")
+        var numbers_recipes: String = dataInner.getString("image_section")
+        var image_path: Int= dataInner.getInt("fk_idCategory")
+
+        //identifica la ruta de los recusos
+        val idenfifierIdCategory = recursos?.getIdentifier(id_category.toString(), "+id"+"idCategoria", context.packageName)
+        val identifierNameCategory = recursos?.getIdentifier(category_name, "string", context.packageName)
+        val identifierNumberRecipe = recursos?.getIdentifier(numbers_recipes, "string", context.packageName)
+        val identifierImage = recursos?.getIdentifier(image_path.toString(), "drawable", context.packageName)
+
+        var categoryItem = SectionsModel(idenfifierIdCategory!!, identifierNameCategory!!, identifierNumberRecipe!!,identifierImage!!)
+
+        categoriesArrayList.add(categoryItem)
+    }
+
+
+    adapter = SectionsAdapter(context, categoriesArrayList)
+    dataSectionsListView.adapter = adapter
+
+
+    dataSectionsListView.setOnItemClickListener(){adapterView, view, position, id->
+        val itempositionById = adapterView.getItemIdAtPosition(position)
+        CategoryController(itempositionById)
+
+        //Toast.makeText(context, "El ID es $itempositionById", Toast.LENGTH_SHORT).show()
+
+    }
+}*/

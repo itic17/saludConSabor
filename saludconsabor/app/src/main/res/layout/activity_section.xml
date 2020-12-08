@@ -27,6 +27,13 @@
                 android:textColor="@color/colorDark"
                 android:fontFamily="@font/adonais"
                 android:text="@string/app_name_view"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:textColor="@color/colorDark"
+                android:fontFamily="@font/adonais"
+                android:text="si perras"/>
 
 
         <ListView android:layout_width="match_parent"
