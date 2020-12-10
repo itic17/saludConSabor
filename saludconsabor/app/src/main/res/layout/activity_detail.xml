@@ -5,12 +5,12 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".RecipesActivity">
+        tools:context=".DetailActivity">
+
     <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:paddingBottom="25dp"
             android:orientation="vertical"
             tools:ignore="MissingConstraints">
         <LinearLayout android:layout_width="match_parent"
@@ -29,15 +29,8 @@
 
         </LinearLayout>
         <ListView android:layout_width="match_parent"
-                  android:layout_height="175dp"
-                  android:id="@+id/dataView_banner"
-                  android:orientation="vertical"
-                    android:layout_marginBottom="15dp">
-        </ListView>
-
-        <ListView android:layout_width="match_parent"
                   android:layout_height="match_parent"
-                  android:id="@+id/dataView_recipes"
+                  android:id="@+id/dataView_detail"
                   android:orientation="vertical">
         </ListView>
     </LinearLayout>

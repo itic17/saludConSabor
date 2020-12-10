@@ -18,15 +18,20 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".SectionActivity"
-                  android:label="Secciones"
-                  android:theme="@style/AppTheme">
-
+        <activity
+                android:name=".SectionActivity"
+                android:label="Secciones"
+                android:theme="@style/AppTheme">
         </activity>
-        <activity android:name=".RecipesActivity"
-                  android:label="Recetas"
-                  android:theme="@style/AppTheme">
-
+        <activity
+                android:name=".RecipesActivity"
+                android:label="Recetas"
+                android:theme="@style/AppTheme">
+        </activity>
+        <activity
+                android:name=".DetailActivity"
+                android:label="Detalles"
+                android:theme="@style/AppTheme">
         </activity>
     </application>
 
