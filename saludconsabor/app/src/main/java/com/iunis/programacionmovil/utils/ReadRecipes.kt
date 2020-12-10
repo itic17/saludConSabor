@@ -28,13 +28,15 @@ fun getDataJsonRecipes(context: Context, id:Int, dataRecipesListView: ListView):
             var id_section: Int = dataInner.getInt("idsection")
             var recipe_name: String = dataInner.getString("recipe_name")
             var raciones: String = dataInner.getString("raciones")
+            var image_recipe: String = dataInner.getString("image_recipe")
 
             //identifica la ruta de los recusos
             val identifierNameRecipe = recursos?.getIdentifier(recipe_name, "string", context.packageName)
             val identifierRaciones = recursos?.getIdentifier(raciones, "string", context.packageName)
+            val identifierImageRecipe = recursos?.getIdentifier(image_recipe, "drawable", context.packageName)
 
 
-            var recipesItem = RecipesModel(id_recipe, id_section, identifierNameRecipe!!, identifierRaciones!!)
+            var recipesItem = RecipesModel(id_recipe, id_section, identifierNameRecipe!!, identifierRaciones!!, identifierImageRecipe!!)
 
             recipesArrayList.add(recipesItem)
         }

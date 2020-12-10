@@ -19,6 +19,7 @@ class RecipesAdapter(private val context: Context, private val recipesArrayList:
         var recipesListView = inflator.inflate(R.layout.list_recipes, null)
         recipesListView.name_recipe.setText(recipe_item.recipe_name)
         recipesListView.numero_raciones.setText(recipe_item.raciones)
+        recipesListView.image_recipe.setImageResource(recipe_item.imageRecipe)
         return recipesListView
     }
 
