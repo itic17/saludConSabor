@@ -9,7 +9,7 @@ import org.json.JSONArray
 import org.json.JSONObject
 
 /***
- * Esta funcion obtiene los datos de sections.json
+ * Esta funcion obtiene los datos de recetas.json
  */
 fun getDataJsonRecipes(context: Context, id:Int, dataRecipesListView: ListView): ArrayList<RecipesModel>{
     var recipesArrayList = ArrayList<RecipesModel>()

@@ -4,31 +4,31 @@
       "idcategory": 1,
       "category_name": "categoria1",
       "numbers_recipes": "numero_recetas1",
-      "image_category": "image1"
+      "image_category": "cat_frescura_campo"
     },
     {
       "idcategory": 2,
       "category_name": "categoria2",
       "numbers_recipes": "numero_recetas5",
-      "image_category": "image2"
+      "image_category": "cat_salud_liquida"
     },
     {
       "idcategory": 3,
       "category_name": "categoria3",
       "numbers_recipes": "numero_recetas4",
-      "image_category": "image3"
+      "image_category": "cat_hora_comer"
     },
     {
       "idcategory": 4,
       "category_name": "categoria4",
       "numbers_recipes": "numero_recetas3",
-      "image_category": "image4"
+      "image_category": "cat_acompana_lujo"
     },
     {
       "idcategory": 5,
       "category_name": "categoria5",
       "numbers_recipes": "numero_recetas2",
-      "image_category": "image5"
+      "image_category": "cat_dulzura_paladar"
     }
   ]
 }

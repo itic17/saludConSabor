@@ -28,11 +28,11 @@
                     android:text="@string/app_name_view"/>
 
         </LinearLayout>
-        <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="175dp"
-                android:id="@+id/imageSection"
-                android:background="@drawable/image1"/>
+        <ListView android:layout_width="match_parent"
+                  android:layout_height="175dp"
+                  android:id="@+id/dataView_banner"
+                  android:orientation="vertical">
+        </ListView>
 
         <ListView android:layout_width="match_parent"
                   android:layout_height="match_parent"

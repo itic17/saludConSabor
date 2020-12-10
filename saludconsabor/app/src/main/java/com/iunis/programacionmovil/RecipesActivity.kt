@@ -2,6 +2,7 @@ package com.iunis.programacionmovil
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.iunis.programacionmovil.utils.getDataJsonBanners
 import com.iunis.programacionmovil.utils.getDataJsonRecipes
 import com.iunis.programacionmovil.utils.getDataJsonSections
 import kotlinx.android.synthetic.main.activity_recipes.*
@@ -15,6 +16,7 @@ class RecipesActivity : AppCompatActivity() {
         val bundle: Bundle? = intent.extras
         val idseccion = bundle?.get("idsection")
         var recipesArrayList = getDataJsonRecipes(this, idseccion as Int, dataView_recipes)
+        getDataJsonBanners(this, idseccion as Int, dataView_banner)
 
     }
 }

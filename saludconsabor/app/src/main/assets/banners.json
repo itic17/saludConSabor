@@ -3,67 +3,67 @@
     {
       "idbanner": 1,
       "idsection": 1,
-      "image_path": "image1"
+      "image_path": "cat_frescura_campo"
     },
     {
       "idbanner": 2,
       "idsection": 2,
-      "image_path": "image1"
+      "image_path": "sub_jugos_fruta"
     },
     {
       "idbanner": 3,
       "idsection": 3,
-      "image_path": "image1"
+      "image_path": "sub_jugos_fruta"
     },
     {
       "idbanner": 4,
       "idsection": 4,
-      "image_path": "image1"
+      "image_path": "sub_licuado_mlateada"
     },
     {
       "idbanner": 5,
       "idsection": 5,
-      "image_path": "image1"
+      "image_path": "sub_licuado_mlateada"
     },
     {
       "idbanner": 6,
       "idsection": 6,
-      "image_path": "image1"
+      "image_path": "sub_ensalada"
     },
     {
       "idbanner": 7,
       "idsection": 7,
-      "image_path": "image1"
+      "image_path": "sub_aderezo"
     },
     {
       "idbanner": 8,
       "idsection": 8,
-      "image_path": "image1"
+      "image_path": "sub_cremas_sopas"
     },
     {
       "idbanner": 9,
       "idsection": 9,
-      "image_path": "image1"
+      "image_path": "sub_cremas_sopas"
     },
     {
       "idbanner": 10,
       "idsection": 10,
-      "image_path": "image1"
+      "image_path": "sub_platillo_principal"
     },
     {
       "idbanner": 11,
       "idsection": 11,
-      "image_path": "image1"
+      "image_path": "sub_galletas"
     },
     {
       "idbanner": 12,
       "idsection": 12,
-      "image_path": "image1"
+      "image_path": "sub_pays"
     },
     {
       "idbanner": 13,
       "idsection": 13,
-      "image_path": "image1"
+      "image_path": "sub_postres"
     }
   ]
 }

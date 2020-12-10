@@ -3,79 +3,79 @@
     {
       "idsection": 1,
       "section_name": "seccion1",
-      "image_section": "image1",
+      "image_section": "cat_frescura_campo",
       "idcategory": 1
     },
     {
       "idsection": 2,
       "section_name": "seccion2",
-      "image_section": "image2",
+      "image_section": "sub_jugos_fruta",
       "idcategory": 2
     },
     {
       "idsection": 3,
       "section_name": "seccion3",
-      "image_section": "image2",
+      "image_section": "sub_jugos_fruta",
       "idcategory": 2
     },
     {
       "idsection": 4,
       "section_name": "seccion4",
-      "image_section": "image2",
+      "image_section": "sub_licuado_mlateada",
       "idcategory": 2
     },
     {
       "idsection": 5,
       "section_name": "seccion5",
-      "image_section": "image2",
+      "image_section": "sub_licuado_mlateada",
       "idcategory": 2
     },
     {
       "idsection": 6,
       "section_name": "seccion6",
-      "image_section": "image3",
+      "image_section": "sub_ensalada",
       "idcategory": 3
     },
     {
       "idsection": 7,
       "section_name": "seccion7",
-      "image_section": "image3",
+      "image_section": "sub_aderezo",
       "idcategory": 3
     },
     {
       "idsection": 8,
       "section_name": "seccion8",
-      "image_section": "image3",
+      "image_section": "sub_cremas_sopas",
       "idcategory": 3
     },
     {
       "idsection": 9,
       "section_name": "seccion9",
-      "image_section": "image3",
+      "image_section": "sub_cremas_sopas",
       "idcategory": 3
     },
     {
       "idsection": 10,
       "section_name": "seccion10",
-      "image_section": "image3",
+      "image_section": "sub_platillo_principal",
       "idcategory": 3
     },
     {
       "idsection": 11,
       "section_name": "seccion11",
-      "image_section": "image4",
+      "image_section": "sub_galletas",
       "idcategory": 4
     },
     {
       "idsection": 12,
       "section_name": "seccion12",
-      "image_section": "image5",
+      "image_section": "sub_pays",
       "idcategory": 5
     },
     {
       "idsection": 13,
       "section_name": "seccion13",
-      "image_section": "image5",
+      "image_section": "sub_postres",
       "idcategory": 5
     }
   ]
