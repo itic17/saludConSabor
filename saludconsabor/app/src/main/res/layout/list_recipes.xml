@@ -16,7 +16,6 @@
             android:paddingBottom="10dp">
         <ImageView android:layout_width="100dp"
                    android:layout_height="100dp"
-                   android:id="@+id/imgitem_category"
                    app:srcCompat="@mipmap/app_icon">
         </ImageView>
         <LinearLayout
@@ -26,7 +25,7 @@
                 android:orientation="vertical">
             <TextView android:layout_width="match_parent"
                       android:layout_height="wrap_content"
-                      android:id="@+id/name_category"
+                      android:id="@+id/name_recipe"
                       android:paddingLeft="20dp"
                       android:paddingTop="20dp"
                       android:textSize="20dp"
@@ -35,7 +34,7 @@
             <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/numbers_recipes"
+                    android:id="@+id/numero_raciones"
                     android:textSize="12dp"
                     android:textColor="@color/colorGray"
                     android:paddingTop="10dp"

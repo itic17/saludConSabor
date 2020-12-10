@@ -1,5 +1,6 @@
 package com.iunis.programacionmovil
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.*
@@ -14,7 +15,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        getDataJsonCategories(this,dataView_categories)
+        var categoryArrayList = getDataJsonCategories(this,dataView_categories)
+
+        dataView_categories.setOnItemClickListener{parent, view, position, id->
+            val intent = Intent(this, SectionActivity::class.java)
+            intent.putExtra("idcategory", categoryArrayList.get(position).idCategoria)
+
+            startActivity(intent)
+        }
 
 
     }

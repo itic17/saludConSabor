@@ -1,82 +1,82 @@
 {
   "sections": [
     {
-      "idSection": 1,
+      "idsection": 1,
       "section_name": "seccion1",
       "image_section": "image1",
-      "fk_idCategory": 1
+      "idcategory": 1
     },
     {
-      "idSection": 2,
+      "idsection": 2,
       "section_name": "seccion2",
       "image_section": "image2",
-      "fk_idCategory": 2
+      "idcategory": 2
     },
     {
-      "idSection": 3,
+      "idsection": 3,
       "section_name": "seccion3",
       "image_section": "image2",
-      "fk_idCategory": 2
+      "idcategory": 2
     },
     {
-      "idSection": 4,
+      "idsection": 4,
       "section_name": "seccion4",
       "image_section": "image2",
-      "fk_idCategory": 2
+      "idcategory": 2
     },
     {
-      "idSection": 5,
+      "idsection": 5,
       "section_name": "seccion5",
       "image_section": "image2",
-      "fk_idCategory": 2
+      "idcategory": 2
     },
     {
-      "idSection": 6,
+      "idsection": 6,
       "section_name": "seccion6",
       "image_section": "image3",
-      "fk_idCategory": 3
+      "idcategory": 3
     },
     {
-      "idSection": 7,
+      "idsection": 7,
       "section_name": "seccion7",
       "image_section": "image3",
-      "fk_idCategory": 3
+      "idcategory": 3
     },
     {
-      "idSection": 8,
+      "idsection": 8,
       "section_name": "seccion8",
       "image_section": "image3",
-      "fk_idCategory": 3
+      "idcategory": 3
     },
     {
-      "idSection": 9,
+      "idsection": 9,
       "section_name": "seccion9",
       "image_section": "image3",
-      "fk_idCategory": 3
+      "idcategory": 3
     },
     {
-      "idSection": 10,
+      "idsection": 10,
       "section_name": "seccion10",
       "image_section": "image3",
-      "fk_idCategory": 3
+      "idcategory": 3
     },
     {
-      "idSection": 11,
+      "idsection": 11,
       "section_name": "seccion11",
       "image_section": "image4",
-      "fk_idCategory": 4
+      "idcategory": 4
     },
     {
-      "idSection": 12,
+      "idsection": 12,
       "section_name": "seccion12",
       "image_section": "image5",
-      "fk_idCategory": 5
+      "idcategory": 5
     },
     {
-      "idSection": 13,
+      "idsection": 13,
       "section_name": "seccion13",
       "image_section": "image5",
-      "fk_idCategory": 5
+      "idcategory": 5
     }
   ]
 }

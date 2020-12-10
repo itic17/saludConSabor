@@ -5,12 +5,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
 
     <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="25dp">
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
         <ImageView android:layout_width="100dp"
                    android:layout_height="100dp"
                    android:id="@+id/imgitem_category"
@@ -26,18 +29,9 @@
                       android:id="@+id/name_section"
                       android:paddingLeft="20dp"
                       android:paddingTop="20dp"
-                      android:textSize="20dp"
+                      android:textSize="22dp"
                       android:textColor="@color/colorDark"
                       android:text="categoria"/>
-            <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/numbers_recipes_details"
-                    android:textSize="12dp"
-                    android:textColor="@color/colorGray"
-                    android:paddingTop="10dp"
-                    android:paddingLeft="20dp"
-                    android:text="@string/categoria1"/>
         </LinearLayout>
     </LinearLayout>
 

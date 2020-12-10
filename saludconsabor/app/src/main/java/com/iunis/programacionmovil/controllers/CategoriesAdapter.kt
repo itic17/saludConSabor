@@ -14,11 +14,9 @@ class CategoriesAdapter(private val context: Context, private val categoriesArra
         //sacar cada alumno para ubicarlo en el ListView
         val category_item = this.categoriesArrayList[position]
 
-        print("mensaje de prueba de id"+ category_item.id)
         var inflator = context!!.getSystemService(Context.LAYOUT_INFLATER_SERVICE) as LayoutInflater
 
         var categoriesListView = inflator.inflate(R.layout.list_categories, null)
-        categoriesListView.idcategory.setId(category_item.id)
         categoriesListView.name_category.setText(category_item.category_name)
         categoriesListView.numbers_recipes.setText(category_item.numbers_recipes)
         categoriesListView.imgitem_category.setImageResource(category_item.image_category)

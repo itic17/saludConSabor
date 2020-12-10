@@ -1,0 +1,69 @@
+{
+  "banners": [
+    {
+      "idbanner": 1,
+      "idsection": 1,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 2,
+      "idsection": 2,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 3,
+      "idsection": 3,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 4,
+      "idsection": 4,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 5,
+      "idsection": 5,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 6,
+      "idsection": 6,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 7,
+      "idsection": 7,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 8,
+      "idsection": 8,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 9,
+      "idsection": 9,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 10,
+      "idsection": 10,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 11,
+      "idsection": 11,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 12,
+      "idsection": 12,
+      "image_path": "image1"
+    },
+    {
+      "idbanner": 13,
+      "idsection": 13,
+      "image_path": "image1"
+    }
+  ]
+}

@@ -43,13 +43,13 @@
 
 
     <!--CANTIDAD DE RACIONES POR RECETA-->
-    <string name="dos_raciones">Rinde 2 raciones</string>
-    <string name="tres_raciones">Rinde 3 raciones</string>
-    <string name="cuatro_raciones">Rinde 4 raciones</string>
-    <string name="seis_raciones">Rinde 6 raciones</string>
-    <string name="ocho_raciones">Rinde 8 raciones</string>
-    <string name="diez_raciones">Rinde 10 raciones</string>
-    <string name="doce_raciones">Rinde 12 raciones</string>
-    <string name="dieciseis_raciones">Rinde 16 raciones</string>
-    <string name="veinte_raciones">Rinde 20 raciones</string>
+    <string name="racion1">Rinde 2 raciones</string>
+    <string name="racion2">Rinde 3 raciones</string>
+    <string name="racion3">Rinde 4 raciones</string>
+    <string name="racion4">Rinde 6 raciones</string>
+    <string name="racion5">Rinde 8 raciones</string>
+    <string name="racion6">Rinde 10 raciones</string>
+    <string name="racion7">Rinde 12 raciones</string>
+    <string name="racion8">Rinde 16 raciones</string>
+    <string name="racion9">Rinde 20 raciones</string>
 </resources>
