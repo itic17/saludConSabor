@@ -29,9 +29,10 @@
                       android:id="@+id/name_section"
                       android:paddingLeft="20dp"
                       android:paddingTop="20dp"
-                      android:textSize="22dp"
+                      android:textSize="20dp"
+                      android:fontFamily="@font/goboldregular"
                       android:textColor="@color/colorDark"
-                      android:text="categoria"/>
+                      android:text="nombre de la seccion"/>
         </LinearLayout>
     </LinearLayout>
 

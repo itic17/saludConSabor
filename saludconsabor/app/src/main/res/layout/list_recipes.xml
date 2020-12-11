@@ -30,8 +30,9 @@
                       android:paddingLeft="20dp"
                       android:paddingTop="20dp"
                       android:textSize="20dp"
+                      android:fontFamily="@font/goboldregular"
                       android:textColor="@color/colorDark"
-                      android:text="categoria"/>
+                      android:text="nombre de receta"/>
             <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -40,7 +41,8 @@
                     android:textColor="@color/colorGray"
                     android:paddingTop="10dp"
                     android:paddingLeft="20dp"
-                    android:text="@string/categoria1"/>
+                    android:fontFamily="@font/bebasneueregular"
+                    android:text="numero de porciones"/>
         </LinearLayout>
     </LinearLayout>
 

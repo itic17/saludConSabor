@@ -10,9 +10,28 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
-            android:paddingTop="25dp"
             android:orientation="vertical"
             tools:ignore="MissingConstraints">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:background="@color/colorDark"
+                      android:paddingTop="10dp"
+                      android:gravity="center|right"
+                      android:paddingBottom="10dp"
+                      android:paddingRight="10dp"
+                      android:layout_marginBottom="10dp">
+            <ImageView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:id="@+id/buttonBack1"
+                       android:src="@drawable/back"
+                       android:layout_marginLeft="25dp"/>
+            <ImageView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:id="@+id/buttonClose2"
+                       android:layout_marginLeft="18dp"
+                       android:src="@drawable/close"/>
+
+        </LinearLayout>
 
         <ImageView
                 android:layout_width="match_parent"

@@ -24,6 +24,16 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        var btn_close = findViewById(R.id.buttonClose1) as ImageView
+        btn_close.setOnClickListener{
+            var intent = Intent(Intent.ACTION_MAIN)
+            intent.addCategory(Intent.CATEGORY_HOME)
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            startActivity(intent)
+            //finish()
+            //System.exit(0)
+        }
+
 
     }
 }

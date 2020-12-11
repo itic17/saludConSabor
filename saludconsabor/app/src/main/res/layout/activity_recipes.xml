@@ -6,6 +6,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".RecipesActivity">
+
+
     <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -15,31 +17,47 @@
             tools:ignore="MissingConstraints">
         <LinearLayout android:layout_width="match_parent"
                       android:layout_height="wrap_content"
-                      android:gravity="center"
-                      android:background="@color/colorBlue"
-                      android:paddingTop="5dp"
-                      android:paddingBottom="5dp">
+                      android:background="@color/colorDark"
+                      android:paddingTop="10dp"
+                      android:gravity="center|right"
+                      android:paddingRight="10dp"
+                      android:paddingBottom="10dp">
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textSize="30dp"
+                    android:textSize="25dp"
                     android:textColor="@color/colorWhite"
                     android:fontFamily="@font/adonais"
                     android:text="@string/app_name_view"/>
+            <ImageView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:id="@+id/buttonBack2"
+                       android:src="@drawable/back"
+                       android:layout_marginLeft="25dp"/>
+            <ImageView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:id="@+id/buttonHome2"
+                       android:src="@drawable/casa"
+                       android:layout_marginLeft="18dp"/>
+            <ImageView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:id="@+id/buttonClose3"
+                       android:layout_marginLeft="18dp"
+                       android:src="@drawable/close"/>
 
         </LinearLayout>
         <ListView android:layout_width="match_parent"
-                  android:layout_height="175dp"
+                  android:layout_height="190dp"
                   android:id="@+id/dataView_banner"
                   android:orientation="vertical"
                     android:layout_marginBottom="15dp">
         </ListView>
-
         <ListView android:layout_width="match_parent"
                   android:layout_height="match_parent"
                   android:id="@+id/dataView_recipes"
                   android:orientation="vertical">
         </ListView>
     </LinearLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

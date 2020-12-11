@@ -30,7 +30,7 @@
         </activity>
         <activity
                 android:name=".DetailActivity"
-                android:label="Detalles"
+                android:label="Detalle de la receta"
                 android:theme="@style/AppTheme">
         </activity>
     </application>

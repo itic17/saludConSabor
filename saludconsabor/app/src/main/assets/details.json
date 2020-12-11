@@ -1,437 +1,624 @@
 {
-  "detail": [
+  "details": [
     {
+      "iddetail": 1,
       "idreceta": 1,
-      "idsection": 1,
       "recipe_name": "copa_de_frutas",
       "raciones" : "racion4",
-      "image_recipe": "fc_copa_frutas"
+      "image_recipe": "fc_copa_frutas",
+      "ingredientes": "ingredi_copaFrutas",
+      "preparacion":"prep_copafrutas",
+      "tabla": "t1"
     },
     {
+      "iddetail": 2,
       "idreceta": 2,
-      "idsection": 1,
       "recipe_name": "ensalada_de_frutas",
       "raciones" : "racion4",
-      "image_recipe": "fc_ensalada_frutas"
+      "image_recipe": "fc_ensalada_frutas",
+      "ingredientes": "ingredi_ensaladaFrutas",
+      "preparacion":"prep_ensaladafrutas",
+      "tabla": "t2"
     },
     {
+      "iddetail": 3,
       "idreceta": 3,
-      "idsection": 1,
       "recipe_name": "ensalada_de_mango",
       "raciones" : "racion4",
-      "image_recipe": "fc_ensalada_mango"
+      "image_recipe": "fc_ensalada_mango",
+      "ingredientes": "ingredi_ensaladaMango",
+      "preparacion":"prep_ensaladamango",
+      "tabla": "t3"
     },
     {
+      "iddetail": 4,
       "idreceta": 4,
-      "idsection": 1,
       "recipe_name": "manzanas_al_horno",
       "raciones" : "racion4",
-      "image_recipe": "fc_manzana_horno"
+      "image_recipe": "fc_manzana_horno",
+      "ingredientes": "ingre_manzanasHorno",
+      "preparacion":"prep_manzanashorno",
+      "tabla": "t4"
     },
     {
+      "iddetail": 5,
       "idreceta": 5,
-      "idsection": 1,
       "recipe_name": "duraznos_congelados",
       "raciones" : "racion4",
-      "image_recipe": "fc_durazno_congelado"
+      "image_recipe": "fc_durazno_congelado",
+      "ingredientes": "ingre_duraznosCongelados",
+      "preparacion":"prep_duraznosCongelados",
+      "tabla": "t5"
     },
     {
+      "iddetail": 6,
       "idreceta": 6,
-      "idsection": 2,
       "recipe_name": "jugo_desintoxicante",
       "raciones" : "racion4",
-      "image_recipe": "sl_jugo_desintoxicante"
+      "image_recipe": "sl_jugo_desintoxicante",
+      "ingredientes": "ingre_jugoDesintoxicante",
+      "preparacion":"prep_jugoDesintoxicante",
+      "tabla": "t6"
     },
     {
+      "iddetail": 7,
       "idreceta": 7,
-      "idsection": 2,
       "recipe_name": "jugo_digestivo",
       "raciones" : "racion4",
-      "image_recipe": "sl_jugo_digestivo"
+      "image_recipe": "sl_jugo_digestivo",
+      "ingredientes": "ingre_jugoDigestivo",
+      "preparacion": "prep_jugoDigestivo",
+      "tabla": "t7"
     },
     {
+      "iddetail": 8,
       "idreceta": 8,
-      "idsection": 2,
       "recipe_name": "jugo_antioxidante",
       "raciones" : "racion4",
-      "image_recipe": "sl_jugo_antioxidante"
+      "image_recipe": "sl_jugo_antioxidante",
+      "ingredientes": "ingre_jugoAntioxidante",
+      "preparacion":"prep_jugoAntioxidante",
+      "tabla": "t8"
     },
     {
+      "iddetail": 9,
       "idreceta": 9,
-      "idsection": 2,
       "recipe_name": "bebida_frutal",
       "raciones" : "racion4",
-      "image_recipe": "sl_bebida_frutal"
+      "image_recipe": "sl_bebida_frutal",
+      "ingredientes": "ingre_bebidaFrutal",
+      "preparacion":"prep_bebidaFrutal",
+      "tabla": "t9"
     },
     {
+      "iddetail": 10,
       "idreceta": 10,
-      "idsection": 2,
       "recipe_name": "bebida_refrescante",
       "raciones" : "racion4",
-      "image_recipe": "sl_bebida_refrescante"
+      "image_recipe": "sl_bebida_refrescante",
+      "ingredientes": "ingre_bebidaRefrescante",
+      "preparacion":"prep_bebidaRefrescante",
+      "tabla": "t10"
     },
     {
+      "iddetail": 11,
       "idreceta": 11,
-      "idsection": 3,
       "recipe_name": "atole_de_algarrobo",
       "raciones" : "racion4",
-      "image_recipe": "sl_atole_algarrobo"
+      "image_recipe": "sl_atole_algarrobo",
+      "ingredientes": "ingre_atoleAlgarrobo",
+      "preparacion":"prep_atoleAlgarrobo",
+      "tabla": "t11"
     },
     {
+      "iddetail": 12,
       "idreceta": 12,
-      "idsection": 3,
       "recipe_name": "atole_de_avena",
       "raciones" : "racion4",
-      "image_recipe": "sl_atole_avena"
+      "image_recipe": "sl_atole_avena",
+      "ingredientes": "ingre_atoleAvena",
+      "preparacion":"prep_atoleAvena",
+      "tabla": "t12"
     },
     {
+      "iddetail": 13,
       "idreceta": 13,
-      "idsection": 3,
       "recipe_name": "atole_de_trigo",
       "raciones" : "racion4",
-      "image_recipe": "sl_atole_trigo"
+      "image_recipe": "sl_atole_trigo",
+      "ingredientes": "ingre_atoleTrigo",
+      "preparacion":"prep_atoleTrigo",
+      "tabla": "t13"
     },
     {
+      "iddetail": 14,
       "idreceta": 14,
-      "idsection": 3,
       "recipe_name": "te_relajante",
       "raciones" : "racion4",
-      "image_recipe": "sl_te_relajante"
+      "image_recipe": "sl_te_relajante",
+      "ingredientes": "ingre_teRelajante",
+      "preparacion":"prep_teRelajante",
+      "tabla": "t14"
     },
     {
+      "iddetail": 15,
       "idreceta": 15,
-      "idsection": 3,
       "recipe_name": "te_rojo_de_frutas_y_flores",
       "raciones" : "racion4",
-      "image_recipe": "sl_te_rojo_frutas"
+      "image_recipe": "sl_te_rojo_frutas",
+      "ingredientes": "ingre_teRojo",
+      "preparacion":"prep_teRojo",
+      "tabla": "t15"
     },
     {
+      "iddetail": 16,
       "idreceta": 16,
-      "idsection": 4,
       "recipe_name": "licuado_de_mango",
       "raciones" : "racion4",
-      "image_recipe": "sl_licuado_mango"
+      "image_recipe": "sl_licuado_mango",
+      "ingredientes": "ingre_licuadoMango",
+      "preparacion":"prep_licuadoMango",
+      "tabla": "t16"
     },
     {
+      "iddetail": 17,
       "idreceta": 17,
-      "idsection": 4,
       "recipe_name": "licuado_hiperproteico",
       "raciones" : "racion4",
-      "image_recipe": "sl_licuado_hiperproteico"
+      "image_recipe": "sl_licuado_hiperproteico",
+      "ingredientes": "ingre_licuadoHiperproteico",
+      "preparacion":"prep_licuadoHiperproteico",
+      "tabla": "t17"
     },
     {
+      "iddetail": 18,
       "idreceta": 18,
-      "idsection": 4,
       "recipe_name": "licuado_de_amaranto",
       "raciones" : "racion4",
-      "image_recipe": "sl_licuado_amaranto"
+      "image_recipe": "sl_licuado_amaranto",
+      "ingredientes": "ingre_licuadoAmaranto",
+      "preparacion":"prep_licuadoAmaranto",
+      "tabla": "t18"
     },
     {
+      "iddetail": 19,
       "idreceta": 19,
-      "idsection": 4,
       "recipe_name": "licuado_de_manzana",
       "raciones" : "racion4",
-      "image_recipe": "sl_licuado_manzana"
+      "image_recipe": "sl_licuado_manzana",
+      "ingredientes": "ingre_licuadoManzana",
+      "preparacion":"prep_licuadoManzana",
+      "tabla": "t19"
     },
     {
+      "iddetail": 20,
       "idreceta": 20,
-      "idsection": 4,
       "recipe_name": "licuado_de_papaya",
       "raciones" : "racion4",
-      "image_recipe": "sl_licuado_papaya"
+      "image_recipe": "sl_licuado_papaya",
+      "ingredientes": "ingre_licuadoPapaya",
+      "preparacion":"prep_licuadoPapaya",
+      "tabla": "t20"
     },
     {
+      "iddetail": 21,
       "idreceta": 21,
-      "idsection": 5,
       "recipe_name": "malteada_de_algarrobo",
       "raciones" : "racion4",
-      "image_recipe": "sl_malteada_algarrobo"
+      "image_recipe": "sl_malteada_algarrobo",
+      "ingredientes": "ingre_malteadaAlgarrobo",
+      "preparacion":"prep_malteadaAlgarrobo",
+      "tabla": "t21"
     },
     {
+      "iddetail": 22,
       "idreceta": 22,
-      "idsection": 5,
       "recipe_name": "malteada_de_almendras",
       "raciones" : "racion4",
-      "image_recipe": "sl_malteada_almendra"
+      "image_recipe": "sl_malteada_almendra",
+      "ingredientes": "ingre_malteadaAlmendras",
+      "preparacion":"prep_malteadaAlmendras",
+      "tabla": "t1"
     },
     {
+      "iddetail": 23,
       "idreceta": 23,
-      "idsection": 5,
       "recipe_name": "malteada_de_zanahoria_y_coco",
       "raciones" : "racion4",
-      "image_recipe": "sl_malteada_zanahoria"
+      "image_recipe": "sl_malteada_zanahoria",
+      "ingredientes": "ingre_malteadaZanaCoco",
+      "preparacion":"prep_malteadaZanaCoco",
+      "tabla": "t2"
     },
     {
+      "iddetail": 24,
       "idreceta": 24,
-      "idsection": 6,
       "recipe_name": "ensalada_de_espinacas_con_champinones",
       "raciones" : "racion4",
-      "image_recipe": "hc_ensalada_espinacaschampinon"
+      "image_recipe": "hc_ensalada_espinacaschampinon",
+      "ingredientes": "ingre_ensaladaEspinacasChampinones",
+      "preparacion":"prep_ensaladaEspinacasChampinones",
+      "tabla": "t3"
     },
     {
+      "iddetail": 25,
       "idreceta": 25,
-      "idsection": 6,
       "recipe_name": "ensalada_de_trigo",
       "raciones" : "racion4",
-      "image_recipe": "hc_ensalada_trigo"
+      "image_recipe": "hc_ensalada_trigo",
+      "ingredientes": "ingre_ensaladaTrigo",
+      "preparacion":"prep_ensaladaTrigo",
+      "tabla": "t4"
     },
     {
+      "iddetail": 26,
       "idreceta": 26,
-      "idsection": 6,
       "recipe_name": "ensalada_de_zanahoria",
       "raciones" : "racion4",
-      "image_recipe": "hc_ensalada_zanahoria"
+      "image_recipe": "hc_ensalada_zanahoria",
+      "ingredientes": "ingre_ensaladaZanahoria",
+      "preparacion":"prep_ensaladaZanahoria",
+      "tabla": "t5"
     },
     {
+      "iddetail": 27,
       "idreceta": 27,
-      "idsection": 6,
       "recipe_name": "ensalada_mixta",
       "raciones" : "racion4",
-      "image_recipe": "hc_ensalada_mixta"
+      "image_recipe": "hc_ensalada_mixta",
+      "ingredientes": "ingre_ensaladaMixta",
+      "preparacion":"prep_ensaladaMixta",
+      "tabla": "t6"
     },
     {
+      "iddetail": 28,
       "idreceta": 28,
-      "idsection": 6,
       "recipe_name": "ensalada_waldorf",
       "raciones" : "racion4",
-      "image_recipe": "hc_ensalada_waldorf"
+      "image_recipe": "hc_ensalada_waldorf",
+      "ingredientes": "ingre_ensaldaWaldorf",
+      "preparacion":"prep_ensaladaWaldorf",
+      "tabla": "t7"
     },
     {
+      "iddetail": 29,
       "idreceta": 29,
-      "idsection": 7,
       "recipe_name": "aderezo_de_ajo",
       "raciones" : "racion4",
-      "image_recipe": "hc_aderezo_ajo"
+      "image_recipe": "hc_aderezo_ajo",
+      "ingredientes": "ingre_aderezoAjo",
+      "preparacion":"prep_aderezoAjo",
+      "tabla": "t8"
     },
     {
+      "iddetail": 30,
       "idreceta": 30,
-      "idsection": 7,
       "recipe_name": "crema_de_zanahoria",
       "raciones" : "racion4",
-      "image_recipe": "hc_crema_zanahoria"
+      "image_recipe": "hc_crema_zanahoria",
+      "ingredientes": "ingre_cremaZanahoria",
+      "preparacion":"prep_cremaZanahoria",
+      "tabla": "t9"
     },
     {
+      "iddetail": 31,
       "idreceta": 31,
-      "idsection": 8,
       "recipe_name": "crema_de_calabacitas",
       "raciones" : "racion4",
-      "image_recipe": "hc_crema_calabacitas"
+      "image_recipe": "hc_crema_calabacitas",
+      "ingredientes": "ingre_cremaCalabacitas",
+      "preparacion":"prep_cremaCalabacitas",
+      "tabla": "t10"
     },
     {
+      "iddetail": 32,
       "idreceta": 32,
-      "idsection": 8,
       "recipe_name": "crema_de_aguacate",
       "raciones" : "racion4",
-      "image_recipe": "hc_crema_aguacate"
+      "image_recipe": "hc_crema_aguacate",
+      "ingredientes": "ingre_cremaAguacate",
+      "preparacion":"prep_cremaAguacate",
+      "tabla": "t11"
     },
     {
+      "iddetail": 33,
       "idreceta": 33,
-      "idsection": 8,
       "recipe_name": "crema_de_papa",
       "raciones" : "racion4",
-      "image_recipe": "hc_crema_papa"
+      "image_recipe": "hc_crema_papa",
+      "ingredientes": "ingre_cremaPapa",
+      "preparacion":"prep_cremaPapa",
+      "tabla": "t12"
     },
     {
+      "iddetail": 34,
       "idreceta": 34,
-      "idsection": 8,
       "recipe_name": "crema_de_frijoles_peruanos",
       "raciones" : "racion4",
-      "image_recipe": "hc_crema_frijol"
+      "image_recipe": "hc_crema_frijol",
+      "ingredientes": "ingre_cremaFrijolesPeruanos",
+      "preparacion":"prep_cremaFrijolesPeruanos",
+      "tabla": "t13"
     },
     {
+      "iddetail": 35,
       "idreceta": 35,
-      "idsection": 9,
       "recipe_name": "sopa_de_esparragos",
       "raciones" : "racion4",
-      "image_recipe": "hc_sopa_esparragos"
+      "image_recipe": "hc_sopa_esparragos",
+      "ingredientes": "ingre_sopaEsparragos",
+      "preparacion":"prep_sopaEsparragos",
+      "tabla": "t14"
     },
     {
+      "iddetail": 36,
       "idreceta": 36,
-      "idsection": 9,
       "recipe_name": "sopa_de_papa_con_poro",
       "raciones" : "racion4",
-      "image_recipe": "hc_sopa_papa"
+      "image_recipe": "hc_sopa_papa",
+      "ingredientes": "ngre_sopaPapaPoro",
+      "preparacion":"prep_sopaPapaPoro",
+      "tabla": "t15"
     },
     {
+      "iddetail": 37,
       "idreceta": 37,
-      "idsection": 9,
       "recipe_name": "sopa_de_chicharos_con_elote",
       "raciones" : "racion4",
-      "image_recipe": "hc_sopa_chicharos"
+      "image_recipe": "hc_sopa_chicharos",
+      "ingredientes": "ingre_sopaChicharosElote",
+      "preparacion":"prep_sopaChicharosElote",
+      "tabla": "t16"
     },
     {
+      "iddetail": 38,
       "idreceta": 38,
-      "idsection": 9,
       "recipe_name": "sopa_de_avena",
       "raciones" : "racion4",
-      "image_recipe": "hc_sopa_avena"
+      "image_recipe": "hc_sopa_avena",
+      "ingredientes": "ingre_sopaAvena",
+      "preparacion":"prep_sopaAvena",
+      "tabla": "t17"
     },
     {
+      "iddetail": 39,
       "idreceta": 39,
-      "idsection": 9,
       "recipe_name": "sopa_garbanzo",
       "raciones" : "racion4",
-      "image_recipe": "hc_sopa_garbanzo"
-    },{
+      "image_recipe": "hc_sopa_garbanzo",
+      "ingredientes": "ingre_sopaGarbanzo",
+      "preparacion":"prep_sopaGarbanzo",
+      "tabla": "t18"
+    },
+    {
+      "iddetail": 40,
       "idreceta": 40,
-      "idsection": 10,
       "recipe_name": "tortillas_de_trigo",
       "raciones" : "racion4",
-      "image_recipe": "hc_tortitas_trigo"
+      "image_recipe": "hc_tortitas_trigo",
+      "ingredientes": "ingre_tortillasTrigo",
+      "preparacion":"prep_tortillaTrigo",
+      "tabla": "t19"
     },
     {
+      "iddetail": 41,
       "idreceta": 41,
-      "idsection": 10,
       "recipe_name": "chorizo_de_soya",
       "raciones" : "racion4",
-      "image_recipe": "hc_chorizo_soya"
+      "image_recipe": "hc_chorizo_soya",
+      "ingredientes": "ingre_chorizoSoya",
+      "preparacion":"prep_chorizoSoya",
+      "tabla": "t20"
     },
     {
+      "iddetail": 42,
       "idreceta": 42,
-      "idsection": 10,
       "recipe_name": "hamburguesas_de_soya",
       "raciones" : "racion4",
-      "image_recipe": "hc_hamburguesa_soya"
+      "image_recipe": "hc_hamburguesa_soya",
+      "ingredientes": "ingre_hamburguesasSoya",
+      "preparacion":"prep_hamburguesasSoya",
+      "tabla": "t21"
     },
     {
+      "iddetail": 43,
       "idreceta": 43,
-      "idsection": 10,
       "recipe_name": "asado_de_soya",
       "raciones" : "racion4",
-      "image_recipe": "hc_asado_soya"
+      "image_recipe": "hc_asado_soya",
+      "ingredientes": "ingre_asadoSoya",
+      "preparacion":"prep_asadoSoya",
+      "tabla": "t1"
     },
     {
+      "iddetail": 44,
       "idreceta": 44,
-      "idsection": 10,
       "recipe_name": "asado_de_garbanzo",
       "raciones" : "racion4",
-      "image_recipe": "hc_asado_garbanzo"
+      "image_recipe": "hc_asado_garbanzo",
+      "ingredientes": "ingre_asadoGarbanzo",
+      "preparacion":"prep_asadoGarbanzo",
+      "tabla": "t2"
     },
     {
+      "iddetail": 45,
       "idreceta": 45,
-      "idsection": 11,
       "recipe_name": "pan_de_platano",
       "raciones" : "racion4",
-      "image_recipe": "pg_pan_platano"
+      "image_recipe": "pg_pan_platano",
+      "ingredientes": "ingre_panPlatano",
+      "preparacion":"prep_panPlatano",
+      "tabla": "t3"
     },
     {
+      "iddetail": 46,
       "idreceta": 46,
-      "idsection": 11,
       "recipe_name": "pan_sin_levadura",
       "raciones" : "racion4",
-      "image_recipe": "pg_pan_sinlevadura"
+      "image_recipe": "pg_pan_sinlevadura",
+      "ingredientes": "ingre_panLevadura",
+      "preparacion":"prep_panLevadura",
+      "tabla": "t4"
     },
     {
+      "iddetail": 47,
       "idreceta": 47,
-      "idsection": 11,
       "recipe_name": "pan_de_avena",
       "raciones" : "racion4",
-      "image_recipe": "pg_pan_avena"
+      "image_recipe": "pg_pan_avena",
+      "ingredientes": "ingre_panAvena",
+      "preparacion":"prep_panAvena",
+      "tabla": "t5"
     },
     {
+      "iddetail": 48,
       "idreceta": 48,
-      "idsection": 11,
       "recipe_name": "piedras_de_nuez",
       "raciones" : "racion4",
-      "image_recipe": "pg_piedra_nuez"
+      "image_recipe": "pg_piedra_nuez",
+      "ingredientes": "ingre_piedrasNuez",
+      "preparacion":"prep_piedrasNuez",
+      "tabla": "t6"
     },
     {
+      "iddetail": 49,
       "idreceta": 49,
-      "idsection": 11,
       "recipe_name": "galletas_de_avena",
       "raciones" : "racion4",
-      "image_recipe": "pg_galleta_avena"
+      "image_recipe": "pg_galleta_avena",
+      "ingredientes": "ingre_galletasAvena",
+      "preparacion":"prep_galletasAvena",
+      "tabla": "t7"
     },
     {
+      "iddetail": 50,
       "idreceta": 50,
-      "idsection": 11,
       "recipe_name": "galletas_de_salvado",
       "raciones" : "racion4",
-      "image_recipe": "pg_galletas_salvado"
+      "image_recipe": "pg_galletas_salvado",
+      "ingredientes": "ingre_galletasSalvado",
+      "preparacion":"prep_galletasSalvado",
+      "tabla": "t8"
     },
     {
+      "iddetail": 51,
       "idreceta": 51,
-      "idsection": 11,
       "recipe_name": "galletas_de_platano",
       "raciones" : "racion4",
-      "image_recipe": "pg_galletas_platano"
+      "image_recipe": "pg_galletas_platano",
+      "ingredientes": "ingre_galletasPlatano",
+      "preparacion":"prep_galletasPlatano",
+      "tabla": "t9"
     },
     {
+      "iddetail": 52,
       "idreceta": 52,
-      "idsection": 11,
       "recipe_name": "galletas_de_almendras",
       "raciones" : "racion4",
-      "image_recipe": "pg_galleta_almendra"
+      "image_recipe": "pg_galleta_almendra",
+      "ingredientes": "ingre_galletasAlmendras",
+      "preparacion":"prep_galletasAlmendras",
+      "tabla": "t10"
     },
     {
+      "iddetail": 53,
       "idreceta": 53,
-      "idsection": 12,
       "recipe_name": "pay_de_pera",
       "raciones" : "racion4",
-      "image_recipe": "dp_pay_pera"
+      "image_recipe": "dp_pay_pera",
+      "ingredientes": "ingre_payPera",
+      "preparacion":"prep_payPera",
+      "tabla": "t11"
     },
     {
+      "iddetail": 54,
       "idreceta": 54,
-      "idsection": 12,
       "recipe_name": "pay_de_manzana",
       "raciones" : "racion4",
-      "image_recipe": "dp_pay_manzana"
+      "image_recipe": "dp_pay_manzana",
+      "ingredientes": "ingre_payManzana",
+      "preparacion":"prep_payManzana",
+      "tabla": "t12"
     },
     {
+      "iddetail": 55,
       "idreceta": 55,
-      "idsection": 12,
       "recipe_name": "pay_de_chabacano",
       "raciones" : "racion4",
-      "image_recipe": "dp_pay_chabacano"
+      "image_recipe": "dp_pay_chabacano",
+      "ingredientes": "ingre_payChabacano",
+      "preparacion":"prep_payChabacano",
+      "tabla": "t13"
     },
     {
+      "iddetail": 56,
       "idreceta": 56,
-      "idsection": 12,
       "recipe_name": "pay_de_platano_con_crema",
       "raciones" : "racion4",
-      "image_recipe": "dp_pay_platano"
+      "image_recipe": "dp_pay_platano",
+      "ingredientes": "ingre_payPlatanoCrema",
+      "preparacion":"prep_payPlatanoCrema",
+      "tabla": "t14"
     },
     {
+      "iddetail": 57,
       "idreceta": 57,
-      "idsection": 12,
       "recipe_name": "pay_de_camote",
       "raciones" : "racion4",
-      "image_recipe": "dp_pay_camote"
+      "image_recipe": "dp_pay_camote",
+      "ingredientes": "ingre_payCamote",
+      "preparacion":"prep_payCamote",
+      "tabla": "t15"
     },
     {
+      "iddetail": 58,
       "idreceta": 58,
-      "idsection": 13,
       "recipe_name": "bolitas_de_ajonjoli",
       "raciones" : "racion4",
-      "image_recipe": "dp_bolitas_ajonjoli"
+      "image_recipe": "dp_bolitas_ajonjoli",
+      "ingredientes": "ingre_bolitasAjonjoli",
+      "preparacion":"prep_bolitasAjonjoli",
+      "tabla": "t16"
     },
     {
+      "iddetail": 59,
       "idreceta": 59,
-      "idsection": 13,
       "recipe_name": "budin_de_tapioca",
       "raciones" : "racion4",
-      "image_recipe": "dp_budin_tapioca"
+      "image_recipe": "dp_budin_tapioca",
+      "ingredientes": "ingre_budinTapioca",
+      "preparacion":"prep_budinTapioca",
+      "tabla": "t16"
     },
     {
+      "iddetail": 60,
       "idreceta": 60,
-      "idsection": 13,
       "recipe_name": "arroz_con_leche",
       "raciones" : "racion4",
-      "image_recipe": "dp_arroz_leche"
+      "image_recipe": "dp_arroz_leche",
+      "ingredientes": "ingre_arrozLeche",
+      "preparacion":"prep_arrozLeche",
+      "tabla": "t17"
     },
     {
+      "iddetail": 61,
       "idreceta": 61,
-      "idsection": 13,
       "recipe_name": "dulce_navideño",
       "raciones" : "racion4",
-      "image_recipe": "dp_dulce_navideno"
+      "image_recipe": "dp_dulce_navideno",
+      "ingredientes": "ingre_dulceNavideño",
+      "preparacion":"prep_dulceNavideño",
+      "tabla": "t18"
     },
     {
+      "iddetail": 62,
       "idreceta": 62,
-      "idsection": 13,
       "recipe_name": "budin_de_algarrobo",
       "raciones" : "racion4",
-      "image_recipe": "dp_budin_algarrobo"
+      "image_recipe": "dp_budin_algarrobo",
+      "ingredientes": "ingre_budinAlgarrobo",
+      "preparacion":"prep_budinAlgarrobo",
+      "tabla": "t19"
     }
   ]
 }
